@@ -1,0 +1,75 @@
+# This is a matching profile, not a copy of the resume. Keep private details out.
+minimum_score: 40
+
+# Broad title coverage ensures general SWE jobs remain eligible.
+broad_roles:
+  - software engineer
+  - software developer
+  - backend engineer
+  - full stack engineer
+  - systems engineer
+  - firmware engineer
+  - embedded engineer
+  - infrastructure engineer
+  - platform engineer
+  - developer tools
+  - security engineer
+  - validation engineer
+  - test engineer
+
+# These improve ranking but are never hard requirements.
+resume_boosts:
+  - c
+  - c++
+  - python
+  - linux
+  - operating system
+  - kernel
+  - firmware
+  - embedded
+  - networking
+  - ethernet
+  - tcp
+  - udp
+  - risc-v
+  - arm
+  - microcontroller
+  - robotics
+  - hardware
+  - pcb
+  - fpga
+  - verilog
+  - systems programming
+  - computer architecture
+
+early_career_terms:
+  - intern
+  - internship
+  - new grad
+  - university graduate
+  - entry level
+  - early career
+  - co-op
+
+locations:
+  - remote
+  - california
+  - san francisco
+  - san jose
+  - silicon valley
+  - cupertino
+  - chicago
+  - urbana
+  - champaign
+
+seniority_penalties:
+  - senior
+  - staff
+  - principal
+  - manager
+  - director
+  - lead
+
+exclude:
+  - security clearance required
+  - active clearance required

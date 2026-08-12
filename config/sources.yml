@@ -1,0 +1,23 @@
+max_alerts_per_run: 25
+
+sources:
+  # Community-maintained GitHub lists. The parser follows job/career/apply links.
+  - type: github_markdown
+    name: Simplify New Grad Positions
+    url: https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md
+
+  - type: github_markdown
+    name: Simplify Summer Internships
+    url: https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md
+
+  # Add company boards using their public ATS identifier. Examples are disabled
+  # until you choose the companies you want to track.
+  - type: greenhouse
+    name: Example Greenhouse Company
+    board: company-board-token
+    enabled: false
+
+  - type: lever
+    name: Example Lever Company
+    site: company-site-token
+    enabled: false
