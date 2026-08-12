@@ -1,9 +1,10 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-12 02:22 PDT. 307 unique matching jobs.
+Updated 2026-08-12 08:15 PDT. 308 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 62 | [Summer 2027 Software Developer Internship](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) | General Dynamics Information Technology | USA MD Annapolis Junction | Internship Engine | 2026-08-12 08:15 |
 | 72 | [Embedded Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) | Redwood Materials | San Francisco, California, United States | Internship Engine | 2026-08-12 02:22 |
 | 72 | [Software Engineer Intern - Generalist](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/) | Pony.ai | Fremont, California, United States | Internship Engine | 2026-08-12 02:22 |
 | 72 | [Software Engineer Intern - C++, Summer 2027](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) | Akuna Capital | Chicago, IL | Internship Engine | 2026-08-12 02:22 |
