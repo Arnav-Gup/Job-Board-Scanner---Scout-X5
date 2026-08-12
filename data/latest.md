@@ -1,151 +1,155 @@
-# Scout X5 matches - 2026-08-12 08:39 UTC
+# Scout X5 matches - 2026-08-12 09:22 UTC
 
-## [Software Engineer Intern - C++ or Python](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083&utm_source=Simplify&ref=Simplify) - 72/100
+@Arnav-Gup new matching jobs are ready.
 
-- Company/source: Hudson River Trading / Simplify Summer Internships
-- Location: Austin, TX Chicago, IL NYC
+## [Embedded Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) - 72/100
+
+- Company/source: Redwood Materials / Internship Engine
+- Location: San Francisco, California, United States
+- Why: SWE role: software engineer; profile overlap: c, c++, embedded; early career: intern; location: california, san francisco
+
+## [Software Engineer Intern - Generalist](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/) - 72/100
+
+- Company/source: Pony.ai / Internship Engine
+- Location: Fremont, California, United States
+- Why: SWE role: software engineer; profile overlap: c, c++, python; early career: intern; location: california
+
+## [Software Engineer Intern - C++, Summer 2027](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) - 72/100
+
+- Company/source: Akuna Capital / Internship Engine
+- Location: Chicago, IL
 - Why: SWE role: software engineer; profile overlap: c, c++, python; early career: intern; location: chicago
 
-## [Entry Level Software Engineer - C++](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085&utm_source=Simplify&ref=Simplify) - 68/100
+## [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) - 72/100
 
-- Company/source: Akuna Capital University / Simplify New Grad Positions
+- Company/source: Anduril / Internship Engine
+- Location: Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States
+- Why: SWE role: software engineer; profile overlap: c, c++, python; early career: intern; location: california
+
+## [Software Engineer Intern, C++ 🇺🇸](https://akunacapital.com/careers/job/8018847/?gh_jid=8018847&utm_source=github-vansh-ouckah) - 68/100
+
+- Company/source: Akuna Capital / Vansh Summer 2027 Internships
 - Location: Chicago, IL
-- Why: SWE role: software engineer; profile overlap: c, c++; early career: entry level; location: chicago
+- Why: SWE role: software engineer; profile overlap: c, c++; early career: intern; location: chicago
 
-## [Frontend Software Engineer New Grad - Ads Interface](https://lifeattiktok.com/search/7668569995571726597?utm_source=Simplify&ref=Simplify) - 60/100
+## [Software Engineer Intern - Full Stack Web, Summer 2027](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) - 68/100
 
-- Company/source: 🔥 TikTok / Simplify New Grad Positions
-- Location: San Jose, CA
-- Why: SWE role: software engineer; early career: new grad; location: san jose
-
-## [Software Engineer New Grad - Ads Infrastructure](https://lifeattiktok.com/search/7668879883938203957?utm_source=Simplify&ref=Simplify) - 60/100
-
-- Company/source: 🔥 TikTok / Simplify New Grad Positions
-- Location: San Jose, CA
-- Why: SWE role: software engineer; early career: new grad; location: san jose
-
-## [Entry Level Software Engineer](https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0/application?embed=true&utm_source=Simplify&ref=Simplify) - 60/100
-
-- Company/source: Pariveda Solutions / Simplify New Grad Positions
-- Location: 9 locations Seattle, WA Houston, TX SF LA Dallas, TX Philadelphia, PA Chicago, IL NYC Atlanta, GA
-- Why: SWE role: software engineer; early career: entry level; location: chicago
-
-## [Software Engineer New Grad - Traffic Infrastructure](https://jobs.bytedance.com/en/position/7665849950984194309/detail?utm_source=Simplify&ref=Simplify) - 60/100
-
-- Company/source: 🔥 ByteDance / Simplify New Grad Positions
-- Location: San Jose, CA
-- Why: SWE role: software engineer; early career: new grad; location: san jose
-
-## [Security Engineer New Grad - Threat Detection and Response](https://jobs.bytedance.com/en/position/7668614787018393909/detail?utm_source=Simplify&ref=Simplify) - 60/100
-
-- Company/source: 🔥 ByteDance / Simplify New Grad Positions
-- Location: San Jose, CA
-- Why: SWE role: security engineer; early career: new grad; location: san jose
-
-## [Backend and Infrastructure Software Engineer New Grad - Dev Infra](https://jobs.bytedance.com/en/position/7667894766036322565/detail?utm_source=Simplify&ref=Simplify) - 60/100
-
-- Company/source: 🔥 ByteDance / Simplify New Grad Positions
-- Location: San Jose, CA
-- Why: SWE role: software engineer; early career: new grad; location: san jose
-
-## [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7665994926887291189?utm_source=Simplify&ref=Simplify) - 60/100
-
-- Company/source: 🔥 TikTok / Simplify New Grad Positions
-- Location: San Jose, CA
-- Why: SWE role: software engineer; early career: new grad; location: san jose
-
-## [Backend Software Engineer New Grad - Emerging Products & AI Safety](https://lifeattiktok.com/search/7663036952090347829?utm_source=Simplify&ref=Simplify) - 60/100
-
-- Company/source: 🔥 TikTok / Simplify New Grad Positions
-- Location: San Jose, CA
-- Why: SWE role: software engineer; early career: new grad; location: san jose
-
-## [Software Engineer New Grad - Business Integrity](https://lifeattiktok.com/search/7668592494649690421?utm_source=Simplify&ref=Simplify) - 60/100
-
-- Company/source: 🔥 TikTok / Simplify New Grad Positions
-- Location: San Jose, CA
-- Why: SWE role: software engineer; early career: new grad; location: san jose
-
-## [Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration](https://lifeattiktok.com/search/7668701834807101749?utm_source=Simplify&ref=Simplify) - 60/100
-
-- Company/source: 🔥 TikTok / Simplify New Grad Positions
-- Location: San Jose, CA
-- Why: SWE role: software engineer; early career: new grad; location: san jose
-
-## [Software Engineer New Grad - Quality and Efficiency Technology](https://lifeattiktok.com/search/7668680253677504821?utm_source=Simplify&ref=Simplify) - 60/100
-
-- Company/source: 🔥 TikTok / Simplify New Grad Positions
-- Location: San Jose, CA
-- Why: SWE role: software engineer; early career: new grad; location: san jose
-
-## [Software Engineer New Grad - Ads Measurement Signal Technology](https://lifeattiktok.com/search/7668717356843977013?utm_source=Simplify&ref=Simplify) - 60/100
-
-- Company/source: 🔥 TikTok / Simplify New Grad Positions
-- Location: San Jose, CA
-- Why: SWE role: software engineer; early career: new grad; location: san jose
-
-## [Software Engineer New Grad - Ads Signal & Measurement](https://lifeattiktok.com/search/7668724383120804149?utm_source=Simplify&ref=Simplify) - 60/100
-
-- Company/source: 🔥 TikTok / Simplify New Grad Positions
-- Location: San Jose, CA
-- Why: SWE role: software engineer; early career: new grad; location: san jose
-
-## [Forward Deployed Software Engineer New Grad - Commercial](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40/apply?utm_source=Simplify&ref=Simplify) - 60/100
-
-- Company/source: 🔥 Palantir / Simplify New Grad Positions
+- Company/source: Akuna Capital / Internship Engine
 - Location: Chicago, IL
-- Why: SWE role: software engineer; early career: new grad; location: chicago
+- Why: SWE role: software engineer; profile overlap: python, linux; early career: intern; location: chicago
 
-## [NFC System Software Engineer - Entry Level](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298?utm_source=Simplify&ref=Simplify) - 60/100
+## [Software Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) - 68/100
 
-- Company/source: NXP Semiconductors / Simplify New Grad Positions
+- Company/source: IMC Trading / Internship Engine
+- Location: Chicago, United States
+- Why: SWE role: software engineer; profile overlap: c, c++; early career: intern; location: chicago
+
+## [Software Engineer Intern, C# .NET Desktop](https://akunacapital.com/careers/job/8018886/?gh_jid=8018886&utm_source=github-vansh-ouckah) - 64/100
+
+- Company/source: Akuna Capital / Vansh Summer 2027 Internships
+- Location: Chicago, IL
+- Why: SWE role: software engineer; profile overlap: c; early career: intern; location: chicago
+
+## [Python Software Engineer Intern 🇺🇸](https://akunacapital.com/careers/job/8018853/?gh_jid=8018853&utm_source=github-vansh-ouckah) - 64/100
+
+- Company/source: Akuna Capital / Vansh Summer 2027 Internships
+- Location: Chicago, IL
+- Why: SWE role: software engineer; profile overlap: python; early career: intern; location: chicago
+
+## [Software Engineer Intern, Embedded](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job&utm_source=github-vansh-ouckah) - 64/100
+
+- Company/source: TETRAMEM / Vansh Summer 2027 Internships
 - Location: San Jose, CA
-- Why: SWE role: software engineer; early career: entry level; location: san jose
+- Why: SWE role: software engineer; profile overlap: embedded; early career: intern; location: san jose
 
-## [Software Engineer - New Grad 🇺🇸](https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f?utm_source=Simplify&ref=Simplify) - 60/100
+## [Software Engineer Intern - Enterprise Systems (Fall 2026)](https://job-boards.greenhouse.io/astranis/jobs/4699071006) - 64/100
 
-- Company/source: Realm / Simplify New Grad Positions
-- Location: Remote in US
-- Why: SWE role: software engineer; early career: new grad; location: remote
+- Company/source: Astranis / Internship Engine
+- Location: San Francisco, CA
+- Why: SWE role: software engineer; profile overlap: python; early career: intern; location: san francisco
 
-## [Software Engineer New Grad](https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f/application?embed=true&utm_source=Simplify&ref=Simplify) - 60/100
+## [Software Engineer Intern - Python, Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) - 64/100
 
-- Company/source: Realm / Simplify New Grad Positions
-- Location: Remote in USA
-- Why: SWE role: software engineer; early career: new grad; location: remote
+- Company/source: Akuna Capital / Internship Engine
+- Location: Chicago, IL
+- Why: SWE role: software engineer; profile overlap: python; early career: intern; location: chicago
 
-## [Software Engineer – New Grad](https://ats.rippling.com/flexai/jobs/93ada67c-8527-427c-b2f6-4a5557b00674?utm_source=Simplify&ref=Simplify) - 60/100
+## [Software Engineer Intern - C# .NET Desktop, Summer 2027](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) - 64/100
 
-- Company/source: FlexAI / Simplify New Grad Positions
-- Location: San Jose, CA
-- Why: SWE role: software engineer; early career: new grad; location: san jose
+- Company/source: Akuna Capital / Internship Engine
+- Location: Chicago, IL
+- Why: SWE role: software engineer; profile overlap: c; early career: intern; location: chicago
 
-## [Software Engineer – Early Career](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002?utm_source=Simplify&ref=Simplify) - 60/100
+## [Software Engineer- Backend Intern (Fall 2026)](https://job-boards.greenhouse.io/astranis/jobs/4681183006) - 64/100
 
-- Company/source: Aquatic Capital Management / Simplify New Grad Positions
-- Location: Chicago, IL NYC
-- Why: SWE role: software engineer; early career: early career; location: chicago
+- Company/source: Astranis / Internship Engine
+- Location: San Francisco, CA
+- Why: SWE role: software engineer; profile overlap: python; early career: intern; location: san francisco
 
-## [New Grad Software Engineer - Backend Rust](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application?utm_source=Simplify&ref=Simplify) - 60/100
+## [Summer 2027 Software Developer Internship](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1) - 62/100
 
-- Company/source: N1 / Simplify New Grad Positions
-- Location: 4 locations SF Remote in USA Europe NYC
-- Why: SWE role: software engineer; early career: new grad; location: remote
+- Company/source: General Dynamics Information Technology / Internship Engine
+- Location: USA MD Annapolis Junction
+- Why: SWE role: software developer; profile overlap: c, c++, python; early career: internship
 
-## [Software Engineer New Grad - Machine Learning Platform](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true&utm_source=Simplify&ref=Simplify) - 60/100
+## [Summer 2027 Software Developer Internship](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1) - 62/100
 
-- Company/source: Quora / Simplify New Grad Positions
-- Location: Remote in USA Remote in Canada
-- Why: SWE role: software engineer; early career: new grad; location: remote
+- Company/source: General Dynamics Information Technology / Internship Engine
+- Location: USA MD Annapolis Junction
+- Why: SWE role: software developer; profile overlap: c, c++, python; early career: internship
 
-## [Software Engineer Intern - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7671162985123907845/detail?utm_source=Simplify&ref=Simplify) - 60/100
+## [Summer 2027 Software Developer Internship](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1) - 62/100
 
-- Company/source: 🔥 ByteDance / Simplify Summer Internships
+- Company/source: General Dynamics Information Technology / Internship Engine
+- Location: USA MD Annapolis Junction
+- Why: SWE role: software developer; profile overlap: c, c++, python; early career: internship
+
+## [AI Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) - 62/100
+
+- Company/source: Intel / Internship Engine
+- Location: Virtual US
+- Why: SWE role: software engineer; profile overlap: c, c++, python; early career: intern
+
+## [Forward Deployed Software Engineer, Internship - Intel](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) - 62/100
+
+- Company/source: Palantir / Internship Engine
+- Location: Washington, D.C.
+- Why: SWE role: software engineer; profile overlap: c, c++, python; early career: internship
+
+## [Software Engineer Intern/Co-Op - Fall 2026](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56) - 62/100
+
+- Company/source: SoloPulse / Internship Engine
+- Location: Peachtree Corners, GA
+- Why: SWE role: software engineer; profile overlap: c, c++, python; early career: intern, co-op
+
+## [Software Engineer Intern (Fall 2026)](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) - 62/100
+
+- Company/source: Saronic / Internship Engine
+- Location: Austin, TX
+- Why: SWE role: software engineer; profile overlap: c, c++, python; early career: intern
+
+## [GPU/AI Application System Software Engineer Intern](https://joinbytedance.com/search/7668464504736876853?utm_source=github-vansh-ouckah) - 60/100
+
+- Company/source: ByteDance / Vansh Summer 2027 Internships
 - Location: San Jose, CA
 - Why: SWE role: software engineer; early career: intern; location: san jose
 
-## [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply?utm_source=Simplify&ref=Simplify) - 60/100
+## [Software Engineer Intern, Distributed NoSQL Database Systems](https://joinbytedance.com/search/7668374190764050741?utm_source=github-vansh-ouckah) - 60/100
 
-- Company/source: Belvedere Trading / Simplify Summer Internships
+- Company/source: ByteDance / Vansh Summer 2027 Internships
+- Location: San Jose, CA
+- Why: SWE role: software engineer; early career: intern; location: san jose
+
+## [Software Engineer Intern, AI Platform 🛂](https://joinbytedance.com/search/7668212952030841093?utm_source=github-vansh-ouckah) - 60/100
+
+- Company/source: ByteDance / Vansh Summer 2027 Internships
+- Location: San Jose, CA
+- Why: SWE role: software engineer; early career: intern; location: san jose
+
+## [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328?utm_source=github-vansh-ouckah) - 60/100
+
+- Company/source: DRW / Vansh Summer 2027 Internships
 - Location: Chicago, IL
-- Why: SWE role: software engineer; early career: intern; location: chicago
+- Why: SWE role: software developer; early career: intern; location: chicago
+
+Showing the top 25 of 94 new matches. The complete set is in today's dated report.
