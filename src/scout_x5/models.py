@@ -3,6 +3,37 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from datetime import UTC, datetime
 from hashlib import sha256
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
+
+TRACKING_PARAMETERS = {
+    "embed",
+    "ref",
+    "source",
+    "utm_campaign",
+    "utm_content",
+    "utm_medium",
+    "utm_source",
+    "utm_term",
+}
+
+
+def canonical_job_url(url: str) -> str:
+    """Remove tracking-only URL differences so sources share one job identity."""
+    if not url:
+        return ""
+    parts = urlsplit(url.strip())
+    path = parts.path.rstrip("/")
+    for suffix in ("/apply", "/application"):
+        if path.lower().endswith(suffix):
+            path = path[: -len(suffix)]
+    query = urlencode(
+        sorted(
+            (key, value)
+            for key, value in parse_qsl(parts.query, keep_blank_values=True)
+            if key.lower() not in TRACKING_PARAMETERS and not key.lower().startswith("utm_")
+        )
+    )
+    return urlunsplit((parts.scheme.lower(), parts.netloc.lower(), path, query, ""))
 
 
 @dataclass(frozen=True)
@@ -18,7 +49,7 @@ class Job:
 
     @property
     def key(self) -> str:
-        identity = f"{self.source}|{self.external_id or self.url}"
+        identity = canonical_job_url(self.url) or f"{self.source}|{self.external_id}"
         return sha256(identity.encode()).hexdigest()
 
 

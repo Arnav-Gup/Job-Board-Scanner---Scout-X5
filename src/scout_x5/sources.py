@@ -88,6 +88,44 @@ class LeverSource(Source):
         return jobs
 
 
+class JsonApiSource(Source):
+    def __init__(self, name: str, url: str, client: httpx.Client) -> None:
+        super().__init__(name, client)
+        self.url = url
+
+    def fetch(self) -> list[Job]:
+        response = self.client.get(self.url)
+        response.raise_for_status()
+        payload = response.json()
+        items = payload.get("jobs", payload) if isinstance(payload, dict) else payload
+        jobs: list[Job] = []
+        for item in items:
+            details = " ".join(
+                str(value)
+                for value in (
+                    item.get("category"),
+                    item.get("season"),
+                    item.get("sponsorship"),
+                    item.get("salary"),
+                    " ".join(item.get("skills") or []),
+                )
+                if value
+            )
+            jobs.append(
+                Job(
+                    source=self.name,
+                    external_id=str(item.get("id", item.get("url", ""))),
+                    title=item.get("title", "Untitled"),
+                    company=item.get("company", self.name),
+                    location=item.get("location", "Unspecified"),
+                    url=item.get("url", ""),
+                    description=details,
+                    updated_at=item.get("posted_at", item.get("first_seen_at", "")),
+                )
+            )
+        return jobs
+
+
 MARKDOWN_LINK = re.compile(r"\[([^\]]+)\]\((https?://[^)]+)\)")
 
 
@@ -100,6 +138,10 @@ class GithubMarkdownSource(Source):
         response = self.client.get(self.url)
         response.raise_for_status()
         jobs = self._html_table_jobs(response.text)
+        if jobs:
+            return jobs
+
+        jobs = self._markdown_table_jobs(response.text)
         if jobs:
             return jobs
 
@@ -120,6 +162,44 @@ class GithubMarkdownSource(Source):
                     location="See posting",
                     url=clean_url,
                     description=f"Listing from {self.name}: {plain_text(label)}",
+                )
+            )
+        return jobs
+
+    def _markdown_table_jobs(self, content: str) -> list[Job]:
+        jobs: list[Job] = []
+        last_company = self.name
+        for line in content.splitlines():
+            if not line.startswith("|") or "<a " not in line.lower():
+                continue
+            cells = [cell.strip() for cell in line.strip().strip("|").split("|")]
+            if len(cells) < 4 or "<s>" in line.lower() or "<del>" in line.lower():
+                continue
+            company = plain_text(cells[0])
+            if company and company != "↳":
+                last_company = company
+            title = plain_text(cells[1])
+            location = plain_text(cells[2].replace("</br>", "<br>"))
+            application = BeautifulSoup(cells[3], "html.parser")
+            apply_link = next(
+                (
+                    link.get("href")
+                    for link in application.find_all("a", href=True)
+                    if link.find("img", alt=re.compile("apply", re.I))
+                ),
+                None,
+            )
+            if not apply_link or not title:
+                continue
+            jobs.append(
+                Job(
+                    source=self.name,
+                    external_id=apply_link,
+                    title=title,
+                    company=last_company,
+                    location=location or "Unspecified",
+                    url=apply_link,
+                    description=f"{title} at {last_company} in {location}",
                 )
             )
         return jobs
@@ -182,6 +262,8 @@ def build_sources(config: dict, client: httpx.Client) -> list[Source]:
             )
         elif kind == "github_markdown":
             sources.append(GithubMarkdownSource(item["name"], item["url"], client))
+        elif kind == "json_api":
+            sources.append(JsonApiSource(item["name"], item["url"], client))
         else:
             raise ValueError(f"Unsupported source type: {kind}")
     return sources

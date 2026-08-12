@@ -1,4 +1,8 @@
 max_alerts_per_run: 25
+reporting_timezone: America/Los_Angeles
+
+notifications:
+  github_username: Arnav-Gup
 
 sources:
   # Community-maintained GitHub lists. The parser follows job/career/apply links.
@@ -9,6 +13,16 @@ sources:
   - type: github_markdown
     name: Simplify Summer Internships
     url: https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md
+
+  - type: github_markdown
+    name: Vansh Summer 2027 Internships
+    url: https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md
+
+  # This repository publishes a structured feed with stable IDs, salaries,
+  # sponsorship signals, skills, and timestamps, so use it instead of scraping.
+  - type: json_api
+    name: Internship Engine
+    url: https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json
 
   # Add company boards using their public ATS identifier. Examples are disabled
   # until you choose the companies you want to track.
