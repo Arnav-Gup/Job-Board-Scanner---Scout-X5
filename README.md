@@ -13,11 +13,12 @@ this public repository.
 
 - Public Greenhouse Job Board API sources
 - Public Lever Postings API sources
+- Structured JSON job feeds
 - Community GitHub Markdown job lists
 - Deterministic, explainable 0-100 scoring
-- SQLite deduplication across runs
-- Markdown scan reports
-- Daily GitHub Actions scans and GitHub Issue alerts
+- Cross-source URL canonicalization and SQLite deduplication
+- Per-day reports and an expanding all-time job index
+- 30-minute GitHub Actions scans and new-job-only GitHub Issue alerts
 - Failure isolation: one broken board does not stop the others
 
 ## Quick start
@@ -31,9 +32,10 @@ python -m pip install -e '.[dev]'
 scout-x5
 ```
 
-Results are written to `data/latest.md`; seen-job history is kept in
-`data/scout.db`. Delete the database only when you intentionally want every current
-posting to be treated as new again.
+The most recent non-empty batch is written to `data/latest.md`. Dated reports live
+in `data/daily/`, the expanding index is `data/all-jobs.md`, and seen-job history is
+kept in `data/scout.db`. Delete the database only when you intentionally want every
+current posting to be treated as new again.
 
 ## Configure matching
 
@@ -67,6 +69,10 @@ as `https://jobs.lever.co/acme`, use `acme` as `site`.
 - type: github_markdown
   name: Community List
   url: https://raw.githubusercontent.com/owner/repo/main/README.md
+
+- type: json_api
+  name: Structured Feed
+  url: https://example.com/jobs.json
 ```
 
 Use documented public APIs where possible. Before adding arbitrary scraping, review
@@ -74,12 +80,23 @@ the site's terms, robots policy, and rate limits.
 
 ## Notifications and scheduling
 
-The workflow runs once daily and can also be started from the Actions tab. When
-matches are found, it opens an Issue labeled `job-alert`. Watch the repository or
-enable GitHub email/mobile notifications to receive alerts.
+The workflow runs at minutes 17 and 47 of every hour and can also be started from
+the Actions tab. It opens an assigned Issue labeled `job-alert` only when it finds
+previously unseen matches. Empty scans produce no issue and no repository commit.
 
-GitHub schedules use UTC and may run later than the exact cron minute during busy
-periods. Change `.github/workflows/scan.yml` to adjust frequency.
+Each successful discovery batch immediately updates the current date's report.
+After local midnight in the configured reporting timezone, that dated file naturally
+stops changing and the next day's file begins. Every match is also retained in the
+all-time index.
+
+To receive alerts, enable **On GitHub** and **Email** in GitHub notification settings,
+then watch this repository. GitHub Mobile can turn the same assigned issue into a
+phone push; without GitHub Mobile, your phone's existing mail app can display the
+email notification. No job database or resume is downloaded to the phone.
+
+Scheduled Actions may run a few minutes late during busy periods. Public-repository
+schedules can be disabled by GitHub after 60 days with no repository activity; the
+scanner's state commits normally keep this repository active while jobs are opening.
 
 ## Development
 
