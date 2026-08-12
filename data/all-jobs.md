@@ -1,9 +1,10 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-12 14:29 PDT. 313 unique matching jobs.
+Updated 2026-08-12 15:24 PDT. 314 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 58 | [Platform Software Engineer 1 - Full-time Intern Conversion](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) | Oracle | United States | Internship Engine | 2026-08-12 15:24 |
 | 46 | [Summer 2027 Intern - Software Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000143171017) | Western Digital | San Jose, CA, United States | Internship Engine | 2026-08-12 14:29 |
 | 58 | [Fall 2026 Intern - Product Software Developer](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002) | Assured Guaranty | New York, NY, United States | Internship Engine | 2026-08-12 11:09 |
 | 50 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160?utm_source=Simplify&ref=Simplify) | RTX | Huntsville, AL | Simplify Summer Internships | 2026-08-12 09:12 |

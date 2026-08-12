@@ -1,9 +1,9 @@
-# Scout X5 matches - 2026-08-12 21:29 UTC
+# Scout X5 matches - 2026-08-12 22:24 UTC
 
 @Arnav-Gup new matching jobs are ready.
 
-## [Summer 2027 Intern - Software Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000143171017) - 46/100
+## [Platform Software Engineer 1 - Full-time Intern Conversion](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) - 58/100
 
-- Company/source: Western Digital / Internship Engine
-- Location: San Jose, CA, United States
-- Why: profile overlap: c, c++, python, linux; early career: intern; location: san jose
+- Company/source: Oracle / Internship Engine
+- Location: United States
+- Why: SWE role: software engineer; profile overlap: c, c++; early career: intern
