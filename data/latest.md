@@ -1,9 +1,9 @@
-# Scout X5 matches - 2026-08-13 03:17 UTC
+# Scout X5 matches - 2026-08-13 07:03 UTC
 
 @Arnav-Gup new matching jobs are ready.
 
-## [Backend Software Engineer New Grad - Creator Strategy](https://lifeattiktok.com/search/7672976491146004741?utm_source=Simplify&ref=Simplify) - 60/100
+## [Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000142513209?utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: 🔥 TikTok / Simplify New Grad Positions
-- Location: San Jose, CA
-- Why: SWE role: software engineer; early career: new grad; location: san jose
+- Company/source: RRS Group / Simplify Summer Internships
+- Location: SF
+- Why: SWE role: software engineer; early career: intern
