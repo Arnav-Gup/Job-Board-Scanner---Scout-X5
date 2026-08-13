@@ -1,9 +1,9 @@
-# Scout X5 matches - 2026-08-13 12:00 UTC
+# Scout X5 matches - 2026-08-13 13:50 UTC
 
 @Arnav-Gup new matching jobs are ready.
 
-## [Quantitative Developer - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) - 42/100
+## [Software Engineer New Grad](https://job-boards.greenhouse.io/fourhands/jobs/4297618009?utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: InfiniteQuant / Internship Engine
-- Location: New York, New York, United States (Remote)
-- Why: profile overlap: c, c++, python; early career: internship; location: remote
+- Company/source: Four Hands / Simplify New Grad Positions
+- Location: Austin, TX
+- Why: SWE role: software engineer; early career: new grad
