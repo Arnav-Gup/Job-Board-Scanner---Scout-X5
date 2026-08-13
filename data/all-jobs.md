@@ -1,9 +1,10 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-13 02:49 PDT. 321 unique matching jobs.
+Updated 2026-08-13 05:00 PDT. 322 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 42 | [Quantitative Developer - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) | InfiniteQuant | New York, New York, United States (Remote) | Internship Engine | 2026-08-13 05:00 |
 | 68 | [Software Engineer, Intern](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16) | Exa Labs | San Francisco, California | Internship Engine | 2026-08-13 02:49 |
 | 50 | [Software Engineer New Grad - DevOps](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762?utm_source=Simplify&ref=Simplify) | Applied Materials | Gloucester, MA | Simplify New Grad Positions | 2026-08-13 02:49 |
 | 50 | [Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000142513209?utm_source=Simplify&ref=Simplify) | RRS Group | SF | Simplify Summer Internships | 2026-08-13 00:03 |
