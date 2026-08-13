@@ -1,9 +1,11 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-13 00:03 PDT. 319 unique matching jobs.
+Updated 2026-08-13 02:49 PDT. 321 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 68 | [Software Engineer, Intern](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16) | Exa Labs | San Francisco, California | Internship Engine | 2026-08-13 02:49 |
+| 50 | [Software Engineer New Grad - DevOps](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762?utm_source=Simplify&ref=Simplify) | Applied Materials | Gloucester, MA | Simplify New Grad Positions | 2026-08-13 02:49 |
 | 50 | [Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000142513209?utm_source=Simplify&ref=Simplify) | RRS Group | SF | Simplify Summer Internships | 2026-08-13 00:03 |
 | 60 | [Backend Software Engineer New Grad - Creator Strategy](https://lifeattiktok.com/search/7672976491146004741?utm_source=Simplify&ref=Simplify) | 🔥 TikTok | San Jose, CA | Simplify New Grad Positions | 2026-08-12 20:17 |
 | 50 | [Software Engineer - Early Career](https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012/application?embed=true&utm_source=Simplify&ref=Simplify) | Uniswap | NYC | Simplify New Grad Positions | 2026-08-12 16:24 |
