@@ -1,9 +1,16 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-14 12:58 PDT. 335 unique matching jobs.
+Updated 2026-08-14 15:42 PDT. 342 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 60 | [Software Engineer New Grad - Algorithm 🎓](https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b/apply?utm_source=Simplify&ref=Simplify) | WeRide | San Jose, CA | Simplify New Grad Positions | 2026-08-14 15:42 |
+| 50 | [Software Engineer New Grad - Software - Starlink](https://boards.greenhouse.io/spacex/jobs/8696097002?utm_source=Simplify&ref=Simplify) | 🔥 SpaceX | Bastrop, TX | Simplify New Grad Positions | 2026-08-14 15:42 |
+| 50 | [Software Engineer New Grad - Software - Starlink](https://boards.greenhouse.io/spacex/jobs/8696080002?utm_source=Simplify&ref=Simplify) | 🔥 SpaceX | Palo Alto, CA | Simplify New Grad Positions | 2026-08-14 15:42 |
+| 50 | [Software Engineer New Grad - Software](https://boards.greenhouse.io/spacex/jobs/8696058002?utm_source=Simplify&ref=Simplify) | 🔥 SpaceX | Redmond, WA | Simplify New Grad Positions | 2026-08-14 15:42 |
+| 50 | [Android Platform Software Engineer Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1?utm_source=Simplify&ref=Simplify) | Motorola | Schaumburg, IL Plantation, FL | Simplify Summer Internships | 2026-08-14 15:42 |
+| 50 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Software-Engineering-Intern--Summer-2027-_01866619?utm_source=Simplify&ref=Simplify) | RTX | El Segundo, CA | Simplify Summer Internships | 2026-08-14 15:42 |
+| 50 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineering-Intern--Summer-2027-_01866681?utm_source=Simplify&ref=Simplify) | RTX | Burnsville, MN | Simplify Summer Internships | 2026-08-14 15:42 |
 | 66 | [Software Engineer Intern](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575) | Valeo | Troy, MI | Internship Engine | 2026-08-14 12:58 |
 | 64 | [Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) | Notion | San Francisco, California | Internship Engine | 2026-08-14 12:58 |
 | 40 | [Intern Firmware Engineering](https://generac.wd5.myworkdayjobs.com/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149) | Generac | Reno, NV - USA | Internship Engine | 2026-08-14 11:08 |
