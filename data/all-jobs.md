@@ -1,9 +1,10 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-14 08:08 PDT. 331 unique matching jobs.
+Updated 2026-08-14 10:13 PDT. 332 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 46 | [Software Engineering Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) | TransMarket Group | Chicago, Illinois, United States | Internship Engine | 2026-08-14 10:13 |
 | 50 | [Software Engineer New Grad - Deep Learning Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252?utm_source=Simplify&ref=Simplify) | 🔥 NVIDIA | Santa Clara, CA | Simplify New Grad Positions | 2026-08-14 08:08 |
 | 60 | [Mobile Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7673663349758675205?utm_source=Simplify&ref=Simplify) | 🔥 TikTok | San Jose, CA | Simplify Summer Internships | 2026-08-14 03:40 |
 | 50 | [Systems Engineer/Analyst New Grad - Multi-Mission Planning Development 🎓](https://careers.jhuapl.edu/jobs/58164?icims=1&utm_source=Simplify&ref=Simplify) | Johns Hopkins Applied Physics Laboratory | Laurel, MD | Simplify New Grad Positions | 2026-08-13 22:08 |
