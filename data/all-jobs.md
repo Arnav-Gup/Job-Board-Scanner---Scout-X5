@@ -1,9 +1,11 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-14 22:43 PDT. 357 unique matching jobs.
+Updated 2026-08-15 02:42 PDT. 359 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 60 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392?utm_source=Simplify&ref=Simplify) | RTX | San Jose, CA | Simplify Summer Internships | 2026-08-15 02:42 |
+| 40 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385?utm_source=Simplify&ref=Simplify) | RTX | San Jose, CA | Simplify New Grad Positions | 2026-08-15 02:42 |
 | 50 | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003?utm_source=Simplify&ref=Simplify) | Freeform | LA | Simplify Summer Internships | 2026-08-14 22:43 |
 | 68 | [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Wolverine Trading | Chicago, IL | Simplify New Grad Positions | 2026-08-14 18:51 |
 | 68 | [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Wolverine Trading | Chicago, IL | Simplify New Grad Positions | 2026-08-14 18:51 |
