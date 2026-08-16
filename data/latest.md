@@ -1,9 +1,9 @@
-# Scout X5 matches - 2026-08-15 23:35 UTC
+# Scout X5 matches - 2026-08-16 22:38 UTC
 
 @Arnav-Gup new matching jobs are ready.
 
-## [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true&utm_source=Simplify&ref=Simplify) - 50/100
+## [Software Engineer - Entry Level](https://careers-gdms.icims.com/jobs/74274/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: Replit / Simplify Summer Internships
-- Location: Foster City, CA
-- Why: SWE role: software engineer; early career: intern
+- Company/source: General Dynamics Mission Systems / Simplify New Grad Positions
+- Location: Scottsdale, AZ
+- Why: SWE role: software engineer; early career: entry level

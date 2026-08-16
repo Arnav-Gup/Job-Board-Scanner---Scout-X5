@@ -1,9 +1,10 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-15 16:35 PDT. 360 unique matching jobs.
+Updated 2026-08-16 15:38 PDT. 361 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 50 | [Software Engineer - Entry Level](https://careers-gdms.icims.com/jobs/74274/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | General Dynamics Mission Systems | Scottsdale, AZ | Simplify New Grad Positions | 2026-08-16 15:38 |
 | 50 | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true&utm_source=Simplify&ref=Simplify) | Replit | Foster City, CA | Simplify Summer Internships | 2026-08-15 16:35 |
 | 60 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392?utm_source=Simplify&ref=Simplify) | RTX | San Jose, CA | Simplify Summer Internships | 2026-08-15 02:42 |
 | 40 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385?utm_source=Simplify&ref=Simplify) | RTX | San Jose, CA | Simplify New Grad Positions | 2026-08-15 02:42 |
