@@ -1,9 +1,15 @@
-# Scout X5 matches - 2026-08-16 22:38 UTC
+# Scout X5 matches - 2026-08-17 04:59 UTC
 
 @Arnav-Gup new matching jobs are ready.
 
-## [Software Engineer - Entry Level](https://careers-gdms.icims.com/jobs/74274/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) - 50/100
+## [Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) - 58/100
 
-- Company/source: General Dynamics Mission Systems / Simplify New Grad Positions
-- Location: Scottsdale, AZ
-- Why: SWE role: software engineer; early career: entry level
+- Company/source: American Express / Internship Engine
+- Location: Charlotte, NC, United States
+- Why: SWE role: software engineer; profile overlap: c, python; early career: internship
+
+## [Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) - 58/100
+
+- Company/source: American Express / Internship Engine
+- Location: New York, NY, United States
+- Why: SWE role: software engineer; profile overlap: c, python; early career: internship
