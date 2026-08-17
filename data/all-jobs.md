@@ -1,9 +1,10 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-17 10:46 PDT. 365 unique matching jobs.
+Updated 2026-08-17 12:43 PDT. 366 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 58 | [Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679) | American Express | Charlotte, NC, United States | Internship Engine | 2026-08-17 12:43 |
 | 50 | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002&utm_source=Simplify&ref=Simplify) | Optiver | London, UK | Simplify Summer Internships | 2026-08-17 10:46 |
 | 60 | [Software Engineer Intern - Grainger Technology Group](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors&utm_source=Simplify&ref=Simplify) | W.W. Grainger | Chicago, IL | Simplify Summer Internships | 2026-08-17 08:10 |
 | 58 | [Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) | American Express | Charlotte, NC, United States | Internship Engine | 2026-08-16 21:59 |

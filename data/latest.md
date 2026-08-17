@@ -1,9 +1,9 @@
-# Scout X5 matches - 2026-08-17 17:46 UTC
+# Scout X5 matches - 2026-08-17 19:43 UTC
 
 @Arnav-Gup new matching jobs are ready.
 
-## [Software Engineer Intern](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002&utm_source=Simplify&ref=Simplify) - 50/100
+## [Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679) - 58/100
 
-- Company/source: Optiver / Simplify Summer Internships
-- Location: London, UK
-- Why: SWE role: software engineer; early career: intern
+- Company/source: American Express / Internship Engine
+- Location: Charlotte, NC, United States
+- Why: SWE role: software engineer; profile overlap: c, python; early career: internship
