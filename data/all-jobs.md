@@ -1,9 +1,10 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-16 21:59 PDT. 363 unique matching jobs.
+Updated 2026-08-17 08:10 PDT. 364 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 60 | [Software Engineer Intern - Grainger Technology Group](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors&utm_source=Simplify&ref=Simplify) | W.W. Grainger | Chicago, IL | Simplify Summer Internships | 2026-08-17 08:10 |
 | 58 | [Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) | American Express | Charlotte, NC, United States | Internship Engine | 2026-08-16 21:59 |
 | 58 | [Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) | American Express | New York, NY, United States | Internship Engine | 2026-08-16 21:59 |
 | 50 | [Software Engineer - Entry Level](https://careers-gdms.icims.com/jobs/74274/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | General Dynamics Mission Systems | Scottsdale, AZ | Simplify New Grad Positions | 2026-08-16 15:38 |
