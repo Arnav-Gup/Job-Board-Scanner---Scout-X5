@@ -1,9 +1,10 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-17 16:59 PDT. 372 unique matching jobs.
+Updated 2026-08-17 18:52 PDT. 373 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 50 | [Entry Level Software Engineer](https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601?utm_source=Simplify&ref=Simplify) | CACI | Annapolis Junction, MD | Simplify New Grad Positions | 2026-08-17 18:52 |
 | 58 | [Campus Undergraduate Summer Internship Program - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781) | American Express | Phoenix, AZ, United States | Internship Engine | 2026-08-17 16:59 |
 | 50 | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784?utm_source=Simplify&ref=Simplify) | American Express | Phoenix, AZ | Simplify Summer Internships | 2026-08-17 16:01 |
 | 60 | [Software Engineer Intern - Global Payment](https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify) | 🔥 ByteDance | San Jose, CA | Simplify Summer Internships | 2026-08-17 15:42 |
