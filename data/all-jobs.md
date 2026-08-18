@@ -1,9 +1,17 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-17 18:52 PDT. 373 unique matching jobs.
+Updated 2026-08-18 00:24 PDT. 381 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 60 | [Software Engineer - IS&T Early Career Opportunities](https://jobs.apple.com/en-us/details/200678510?utm_source=Simplify&ref=Simplify) | 🔥 Apple | Cupertino, CA Sunnyvale, CA | Simplify New Grad Positions | 2026-08-18 00:24 |
+| 50 | [Software Engineer New Grad](https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true&utm_source=Simplify&ref=Simplify) | Charta Health | SF NYC | Simplify New Grad Positions | 2026-08-18 00:24 |
+| 50 | [Software Engineer New Grad](https://nexthopai.bamboohr.com/careers/24/?utm_source=Simplify&ref=Simplify) | Nexthop.ai | Santa Clara, CA | Simplify New Grad Positions | 2026-08-18 00:24 |
+| 50 | [Software Engineer Intern - Intelligent Software & Systems](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914?utm_source=Simplify&ref=Simplify) | RTX | Cambridge, MA | Simplify Summer Internships | 2026-08-18 00:24 |
+| 50 | [Software Engineer Intern - Spring 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Spring-2027-_01864146?utm_source=Simplify&ref=Simplify) | RTX | Melbourne, FL | Simplify Summer Internships | 2026-08-18 00:24 |
+| 50 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01867067?utm_source=Simplify&ref=Simplify) | RTX | Indianapolis, IN | Simplify Summer Internships | 2026-08-18 00:24 |
+| 50 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324?utm_source=Simplify&ref=Simplify) | RTX | Cedar Rapids, IA | Simplify Summer Internships | 2026-08-18 00:24 |
+| 50 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487?utm_source=Simplify&ref=Simplify) | RTX | Cedar Rapids, IA | Simplify Summer Internships | 2026-08-18 00:24 |
 | 50 | [Entry Level Software Engineer](https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601?utm_source=Simplify&ref=Simplify) | CACI | Annapolis Junction, MD | Simplify New Grad Positions | 2026-08-17 18:52 |
 | 58 | [Campus Undergraduate Summer Internship Program - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781) | American Express | Phoenix, AZ, United States | Internship Engine | 2026-08-17 16:59 |
 | 50 | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784?utm_source=Simplify&ref=Simplify) | American Express | Phoenix, AZ | Simplify Summer Internships | 2026-08-17 16:01 |
