@@ -1,9 +1,11 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-18 02:49 PDT. 382 unique matching jobs.
+Updated 2026-08-18 08:47 PDT. 384 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 58 | [Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015) | American Express | Sunrise, FL, United States | Internship Engine | 2026-08-18 08:47 |
+| 50 | [Software Engineer New Grad](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647?utm_source=Simplify&ref=Simplify) | State Street | Burlington, MA | Simplify New Grad Positions | 2026-08-18 08:47 |
 | 60 | [Software Engineer Intern - TikTok Search Data Infra](https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify) | 🔥 TikTok | San Jose, CA | Simplify Summer Internships | 2026-08-18 02:49 |
 | 60 | [Software Engineer - IS&T Early Career Opportunities](https://jobs.apple.com/en-us/details/200678510?utm_source=Simplify&ref=Simplify) | 🔥 Apple | Cupertino, CA Sunnyvale, CA | Simplify New Grad Positions | 2026-08-18 00:24 |
 | 50 | [Software Engineer New Grad](https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true&utm_source=Simplify&ref=Simplify) | Charta Health | SF NYC | Simplify New Grad Positions | 2026-08-18 00:24 |
