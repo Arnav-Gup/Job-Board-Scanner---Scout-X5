@@ -1,9 +1,10 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-18 08:47 PDT. 384 unique matching jobs.
+Updated 2026-08-18 14:01 PDT. 385 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 54 | [Software Engineer Intern](https://job-boards.greenhouse.io/gardacp/jobs/6146213004) | Garda Capital Partners | New York, New York, United States | Internship Engine | 2026-08-18 14:01 |
 | 58 | [Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015) | American Express | Sunrise, FL, United States | Internship Engine | 2026-08-18 08:47 |
 | 50 | [Software Engineer New Grad](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647?utm_source=Simplify&ref=Simplify) | State Street | Burlington, MA | Simplify New Grad Positions | 2026-08-18 08:47 |
 | 60 | [Software Engineer Intern - TikTok Search Data Infra](https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify) | 🔥 TikTok | San Jose, CA | Simplify Summer Internships | 2026-08-18 02:49 |
