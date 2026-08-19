@@ -1,9 +1,13 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-19 13:46 PDT. 391 unique matching jobs.
+Updated 2026-08-19 14:11 PDT. 395 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 50 | [Entry Level Software Engineer](https://careers-gdms.icims.com/jobs/74417/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | General Dynamics Mission Systems | Scottsdale, AZ | Simplify New Grad Positions | 2026-08-19 14:11 |
+| 50 | [Software Engineer New Grad - Software - Application Software](https://boards.greenhouse.io/spacex/jobs/8730567002?utm_source=Simplify&ref=Simplify) | 🔥 SpaceX | Hawthorne, CA | Simplify New Grad Positions | 2026-08-19 14:11 |
+| 50 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691?utm_source=Simplify&ref=Simplify) | RTX | Sterling, VA | Simplify Summer Internships | 2026-08-19 14:11 |
+| 50 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01867892?utm_source=Simplify&ref=Simplify) | RTX | Aurora, CO | Simplify Summer Internships | 2026-08-19 14:11 |
 | 58 | [Software Engineer Intern (Backend, Rust)](https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6) | N1 | New York City | Internship Engine | 2026-08-19 13:46 |
 | 50 | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573?utm_source=Simplify&ref=Simplify) | Northrop Grumman | Melbourne, FL | Simplify Summer Internships | 2026-08-19 07:54 |
 | 42 | [Quantitative Developer - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579) | InfiniteQuant | New York, New York, United States (Remote) | Internship Engine | 2026-08-19 04:42 |
