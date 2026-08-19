@@ -1,9 +1,10 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-19 07:54 PDT. 390 unique matching jobs.
+Updated 2026-08-19 13:46 PDT. 391 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 58 | [Software Engineer Intern (Backend, Rust)](https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6) | N1 | New York City | Internship Engine | 2026-08-19 13:46 |
 | 50 | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573?utm_source=Simplify&ref=Simplify) | Northrop Grumman | Melbourne, FL | Simplify Summer Internships | 2026-08-19 07:54 |
 | 42 | [Quantitative Developer - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579) | InfiniteQuant | New York, New York, United States (Remote) | Internship Engine | 2026-08-19 04:42 |
 | 50 | [Software Engineer - Early Career](https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808/application?embed=true&utm_source=Simplify&ref=Simplify) | Koah | SF | Simplify New Grad Positions | 2026-08-18 16:38 |
