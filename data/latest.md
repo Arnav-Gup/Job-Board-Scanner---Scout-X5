@@ -1,9 +1,15 @@
-# Scout X5 matches - 2026-08-19 23:39 UTC
+# Scout X5 matches - 2026-08-20 01:52 UTC
 
 @Arnav-Gup new matching jobs are ready.
 
-## [Software Engineer New Grad - Software Engineer](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247335?utm_source=Simplify&ref=Simplify) - 50/100
+## [AI/ML Software Engineer New Grad](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/AI-ML-Software-Engineer--2026-New-College-Graduate-_JR-2602832?utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: Capital One / Simplify New Grad Positions
-- Location: Toronto, ON, Canada
+- Company/source: GlobalFoundries / Simplify New Grad Positions
+- Location: Austin, TX Santa Clara, CA Richardson, TX
+- Why: SWE role: software engineer; early career: new grad
+
+## [Software Engineer New Grad - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003?utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: Freeform / Simplify New Grad Positions
+- Location: LA
 - Why: SWE role: software engineer; early career: new grad
