@@ -1,9 +1,11 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-20 08:49 PDT. 405 unique matching jobs.
+Updated 2026-08-20 11:16 PDT. 407 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 58 | [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491) | Intel | US, Oregon, Hillsboro | Internship Engine | 2026-08-20 11:16 |
+| 54 | [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489) | Intel | US, Arizona, Phoenix | Internship Engine | 2026-08-20 11:16 |
 | 50 | [Software Engineer Co-op - Enterprise Finance Applications - Summer 2027](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588?utm_source=Simplify&ref=Simplify) | Fifth Third Bank | Cincinnati, OH | Simplify Summer Internships | 2026-08-20 08:49 |
 | 50 | [Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588) | Fifth Third Bank | Cincinnati, OH | Internship Engine | 2026-08-20 07:56 |
 | 60 | [Software Engineer Intern - Recommendation Infra - Performance Efficiency](https://lifeattiktok.com/search/7675159726676101381?utm_source=Simplify&ref=Simplify) | 🔥 TikTok | San Jose, CA | Simplify Summer Internships | 2026-08-19 20:11 |

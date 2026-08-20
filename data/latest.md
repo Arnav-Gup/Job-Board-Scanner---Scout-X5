@@ -1,9 +1,15 @@
-# Scout X5 matches - 2026-08-20 15:49 UTC
+# Scout X5 matches - 2026-08-20 18:16 UTC
 
 @Arnav-Gup new matching jobs are ready.
 
-## [Software Engineer Co-op - Enterprise Finance Applications - Summer 2027](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588?utm_source=Simplify&ref=Simplify) - 50/100
+## [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491) - 58/100
 
-- Company/source: Fifth Third Bank / Simplify Summer Internships
-- Location: Cincinnati, OH
-- Why: SWE role: software engineer; early career: co-op
+- Company/source: Intel / Internship Engine
+- Location: US, Oregon, Hillsboro
+- Why: SWE role: software engineer; profile overlap: c, python; early career: intern
+
+## [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489) - 54/100
+
+- Company/source: Intel / Internship Engine
+- Location: US, Arizona, Phoenix
+- Why: SWE role: software engineer; profile overlap: c; early career: intern
