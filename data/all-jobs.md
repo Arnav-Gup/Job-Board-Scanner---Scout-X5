@@ -1,9 +1,10 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-20 11:16 PDT. 407 unique matching jobs.
+Updated 2026-08-20 15:46 PDT. 408 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 50 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664?utm_source=Simplify&ref=Simplify) | RTX | Tucson, AZ | Simplify Summer Internships | 2026-08-20 15:46 |
 | 58 | [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491) | Intel | US, Oregon, Hillsboro | Internship Engine | 2026-08-20 11:16 |
 | 54 | [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489) | Intel | US, Arizona, Phoenix | Internship Engine | 2026-08-20 11:16 |
 | 50 | [Software Engineer Co-op - Enterprise Finance Applications - Summer 2027](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588?utm_source=Simplify&ref=Simplify) | Fifth Third Bank | Cincinnati, OH | Simplify Summer Internships | 2026-08-20 08:49 |
