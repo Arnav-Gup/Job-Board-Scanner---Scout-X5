@@ -1,9 +1,14 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-19 18:52 PDT. 398 unique matching jobs.
+Updated 2026-08-19 20:11 PDT. 403 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 60 | [Software Engineer Intern - Recommendation Infra - Performance Efficiency](https://lifeattiktok.com/search/7675159726676101381?utm_source=Simplify&ref=Simplify) | 🔥 TikTok | San Jose, CA | Simplify Summer Internships | 2026-08-19 20:11 |
+| 60 | [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672930401597671733?utm_source=Simplify&ref=Simplify) | 🔥 TikTok | San Jose, CA | Simplify Summer Internships | 2026-08-19 20:11 |
+| 60 | [Software Engineer Intern - TikTok Search Architecture](https://lifeattiktok.com/search/7675517686256863541?utm_source=Simplify&ref=Simplify) | 🔥 TikTok | San Jose, CA | Simplify Summer Internships | 2026-08-19 20:11 |
+| 50 | [Software Engineer New Grad](https://job-boards.greenhouse.io/kikoff/jobs/4376677009?utm_source=Simplify&ref=Simplify) | Kikoff | SF | Simplify New Grad Positions | 2026-08-19 20:11 |
+| 50 | [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672926068681951493?utm_source=Simplify&ref=Simplify) | 🔥 TikTok | Seattle, WA | Simplify Summer Internships | 2026-08-19 20:11 |
 | 50 | [AI/ML Software Engineer New Grad](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/AI-ML-Software-Engineer--2026-New-College-Graduate-_JR-2602832?utm_source=Simplify&ref=Simplify) | GlobalFoundries | Austin, TX Santa Clara, CA Richardson, TX | Simplify New Grad Positions | 2026-08-19 18:52 |
 | 50 | [Software Engineer New Grad - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003?utm_source=Simplify&ref=Simplify) | Freeform | LA | Simplify New Grad Positions | 2026-08-19 18:52 |
 | 50 | [Software Engineer New Grad - Software Engineer](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247335?utm_source=Simplify&ref=Simplify) | Capital One | Toronto, ON, Canada | Simplify New Grad Positions | 2026-08-19 16:39 |
