@@ -1,9 +1,9 @@
-# Scout X5 matches - 2026-08-20 22:46 UTC
+# Scout X5 matches - 2026-08-20 23:11 UTC
 
 @Arnav-Gup new matching jobs are ready.
 
-## [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664?utm_source=Simplify&ref=Simplify) - 50/100
+## [Embedded Software Developer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481?utm_source=Simplify&ref=Simplify) - 54/100
 
-- Company/source: RTX / Simplify Summer Internships
-- Location: Tucson, AZ
-- Why: SWE role: software engineer; early career: intern
+- Company/source: Ciena / Simplify New Grad Positions
+- Location: Ottawa, ON, Canada
+- Why: SWE role: software developer; profile overlap: embedded; early career: new grad
