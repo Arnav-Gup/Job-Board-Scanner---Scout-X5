@@ -1,45 +1,21 @@
-# Scout X5 matches - 2026-08-21 07:09 UTC
+# Scout X5 matches - 2026-08-21 16:52 UTC
 
 @Arnav-Gup new matching jobs are ready.
 
-## [Firmware Engineer Co-op/Intern 🎓](https://careers.amd.com/jobs/90809?icims=1&utm_source=Simplify&ref=Simplify) - 64/100
+## [Software Engineer Intern](https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee?utm_source=github-vansh-ouckah) - 60/100
 
-- Company/source: 🔥 AMD / Simplify Summer Internships
-- Location: San Jose, CA Santa Clara, CA
-- Why: SWE role: firmware engineer; profile overlap: firmware; early career: intern, co-op; location: san jose
+- Company/source: Kastle / Vansh Summer 2027 Internships
+- Location: San Francisco, CA
+- Why: SWE role: software engineer; early career: intern; location: san francisco
 
-## [Software Engineer Intern/Co-op - Masters 🎓](https://careers.amd.com/jobs/91176?icims=1&utm_source=Simplify&ref=Simplify) - 60/100
+## [Software Engineer Intern 🇺🇸](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193?utm_source=github-vansh-ouckah) - 50/100
 
-- Company/source: 🔥 AMD / Simplify Summer Internships
-- Location: San Jose, CA Santa Clara, CA
-- Why: SWE role: software engineer; early career: intern, co-op; location: san jose
+- Company/source: Teledyne Technologies Incorporated / Vansh Summer 2027 Internships
+- Location: Huntsville, AL
+- Why: SWE role: software engineer; early career: intern
 
-## [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/90891?icims=1&utm_source=Simplify&ref=Simplify) - 60/100
+## [Software Engineer Intern, CenterWell and Humana Military 🛂](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1?utm_source=github-vansh-ouckah) - 50/100
 
-- Company/source: 🔥 AMD / Simplify Summer Internships
-- Location: San Jose, CA Santa Clara, CA
-- Why: SWE role: software engineer; early career: intern, co-op; location: san jose
-
-## [Firmware Engineer Intern/Co-op 🎓](https://careers.amd.com/jobs/90805?icims=1&utm_source=Simplify&ref=Simplify) - 54/100
-
-- Company/source: 🔥 AMD / Simplify Summer Internships
-- Location: 7 locations Secaucus, NJ Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA
-- Why: SWE role: firmware engineer; profile overlap: firmware; early career: intern, co-op
-
-## [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90801?icims=1&utm_source=Simplify&ref=Simplify) - 54/100
-
-- Company/source: 🔥 AMD / Simplify Summer Internships
-- Location: 7 locations Secaucus, NJ Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Massachusetts
-- Why: SWE role: firmware engineer; profile overlap: firmware; early career: intern, co-op
-
-## [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/90947?icims=1&utm_source=Simplify&ref=Simplify) - 50/100
-
-- Company/source: 🔥 AMD / Simplify Summer Internships
-- Location: 6 locations Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA
-- Why: SWE role: software engineer; early career: intern, co-op
-
-## [Software Engineer Intern/Co-op 🎓](https://careers.amd.com/jobs/91180?icims=1&utm_source=Simplify&ref=Simplify) - 50/100
-
-- Company/source: 🔥 AMD / Simplify Summer Internships
-- Location: 6 locations Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA
-- Why: SWE role: software engineer; early career: intern, co-op
+- Company/source: Humana / Vansh Summer 2027 Internships
+- Location: Louisville, KY
+- Why: SWE role: software engineer; early career: intern
