@@ -1,9 +1,12 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-21 11:15 PDT. 423 unique matching jobs.
+Updated 2026-08-21 13:42 PDT. 426 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 50 | [Software Engineer New Grad](https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432?utm_source=Simplify&ref=Simplify) | Hyve Solutions | Fremont, CA | Simplify New Grad Positions | 2026-08-21 13:42 |
+| 50 | [Software Engineer Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7929236003&utm_source=Simplify&ref=Simplify) | Zipline | South SF | Simplify Summer Internships | 2026-08-21 13:42 |
+| 40 | [Software Engineer 1](https://jobs.lever.co/sophos/797834ca-58be-4a7c-a220-b2eefd449d97/apply?utm_source=Simplify&ref=Simplify) | Sophos | Remote in UK | Simplify New Grad Positions | 2026-08-21 13:42 |
 | 50 | [Associate Software Engineer New Grad - Card Expansion - Software Engineer](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247336?utm_source=Simplify&ref=Simplify) | Capital One | Toronto, ON, Canada | Simplify New Grad Positions | 2026-08-21 11:15 |
 | 50 | [Energy Optimization Software Engineer Intern - Summer 2027 🎓](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1?utm_source=Simplify&ref=Simplify) | GE Vernova | Bellevue, WA | Simplify Summer Internships | 2026-08-21 11:15 |
 | 50 | [Energy Optimization Software Engineer Intern - Summer 2027 🎓](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2?utm_source=Simplify&ref=Simplify) | GE Vernova | Bellevue, WA | Simplify Summer Internships | 2026-08-21 11:15 |
