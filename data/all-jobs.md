@@ -1,9 +1,16 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-20 16:11 PDT. 409 unique matching jobs.
+Updated 2026-08-21 00:09 PDT. 416 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 64 | [Firmware Engineer Co-op/Intern 🎓](https://careers.amd.com/jobs/90809?icims=1&utm_source=Simplify&ref=Simplify) | 🔥 AMD | San Jose, CA Santa Clara, CA | Simplify Summer Internships | 2026-08-21 00:09 |
+| 60 | [Software Engineer Intern/Co-op - Masters 🎓](https://careers.amd.com/jobs/91176?icims=1&utm_source=Simplify&ref=Simplify) | 🔥 AMD | San Jose, CA Santa Clara, CA | Simplify Summer Internships | 2026-08-21 00:09 |
+| 60 | [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/90891?icims=1&utm_source=Simplify&ref=Simplify) | 🔥 AMD | San Jose, CA Santa Clara, CA | Simplify Summer Internships | 2026-08-21 00:09 |
+| 54 | [Firmware Engineer Intern/Co-op 🎓](https://careers.amd.com/jobs/90805?icims=1&utm_source=Simplify&ref=Simplify) | 🔥 AMD | 7 locations Secaucus, NJ Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | Simplify Summer Internships | 2026-08-21 00:09 |
+| 54 | [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90801?icims=1&utm_source=Simplify&ref=Simplify) | 🔥 AMD | 7 locations Secaucus, NJ Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Massachusetts | Simplify Summer Internships | 2026-08-21 00:09 |
+| 50 | [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/90947?icims=1&utm_source=Simplify&ref=Simplify) | 🔥 AMD | 6 locations Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | Simplify Summer Internships | 2026-08-21 00:09 |
+| 50 | [Software Engineer Intern/Co-op 🎓](https://careers.amd.com/jobs/91180?icims=1&utm_source=Simplify&ref=Simplify) | 🔥 AMD | 6 locations Rochester, NY Austin, TX Longmont, CO Fishkill, NY Fort Collins, CO Boxborough, MA | Simplify Summer Internships | 2026-08-21 00:09 |
 | 54 | [Embedded Software Developer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481?utm_source=Simplify&ref=Simplify) | Ciena | Ottawa, ON, Canada | Simplify New Grad Positions | 2026-08-20 16:11 |
 | 50 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664?utm_source=Simplify&ref=Simplify) | RTX | Tucson, AZ | Simplify Summer Internships | 2026-08-20 15:46 |
 | 58 | [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491) | Intel | US, Oregon, Hillsboro | Internship Engine | 2026-08-20 11:16 |
