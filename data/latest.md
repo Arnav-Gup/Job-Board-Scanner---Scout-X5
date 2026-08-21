@@ -1,21 +1,27 @@
-# Scout X5 matches - 2026-08-21 16:52 UTC
+# Scout X5 matches - 2026-08-21 18:15 UTC
 
 @Arnav-Gup new matching jobs are ready.
 
-## [Software Engineer Intern](https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee?utm_source=github-vansh-ouckah) - 60/100
+## [Associate Software Engineer New Grad - Card Expansion - Software Engineer](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247336?utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: Kastle / Vansh Summer 2027 Internships
-- Location: San Francisco, CA
-- Why: SWE role: software engineer; early career: intern; location: san francisco
+- Company/source: Capital One / Simplify New Grad Positions
+- Location: Toronto, ON, Canada
+- Why: SWE role: software engineer; early career: new grad
 
-## [Software Engineer Intern 🇺🇸](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193?utm_source=github-vansh-ouckah) - 50/100
+## [Energy Optimization Software Engineer Intern - Summer 2027 🎓](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1?utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: Teledyne Technologies Incorporated / Vansh Summer 2027 Internships
-- Location: Huntsville, AL
+- Company/source: GE Vernova / Simplify Summer Internships
+- Location: Bellevue, WA
 - Why: SWE role: software engineer; early career: intern
 
-## [Software Engineer Intern, CenterWell and Humana Military 🛂](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1?utm_source=github-vansh-ouckah) - 50/100
+## [Energy Optimization Software Engineer Intern - Summer 2027 🎓](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2?utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: Humana / Vansh Summer 2027 Internships
-- Location: Louisville, KY
+- Company/source: GE Vernova / Simplify Summer Internships
+- Location: Bellevue, WA
 - Why: SWE role: software engineer; early career: intern
+
+## [Trading Systems Engineer Intern](https://careers-sig.icims.com/jobs/11334/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: Susquehanna International Group / Simplify Summer Internships
+- Location: London, UK
+- Why: SWE role: systems engineer; early career: intern
