@@ -1,9 +1,11 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-21 15:43 PDT. 427 unique matching jobs.
+Updated 2026-08-21 18:51 PDT. 429 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 60 | [Software Engineer Intern](https://lifeattiktok.com/search/7676276048527214901?utm_source=Simplify&ref=Simplify) | 🔥 TikTok | San Jose, CA | Simplify Summer Internships | 2026-08-21 18:51 |
+| 50 | [Software Engineer 1 New Grad - QA](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007?utm_source=Simplify&ref=Simplify) | True Anomaly | Long Beach, CA Denver, CO | Simplify New Grad Positions | 2026-08-21 18:51 |
 | 50 | [Software Engineer - Entry Level](https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | General Dynamics Mission Systems | Manassas, VA | Simplify New Grad Positions | 2026-08-21 15:43 |
 | 50 | [Software Engineer New Grad](https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432?utm_source=Simplify&ref=Simplify) | Hyve Solutions | Fremont, CA | Simplify New Grad Positions | 2026-08-21 13:42 |
 | 50 | [Software Engineer Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7929236003&utm_source=Simplify&ref=Simplify) | Zipline | South SF | Simplify Summer Internships | 2026-08-21 13:42 |
