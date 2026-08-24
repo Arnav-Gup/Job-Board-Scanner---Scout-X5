@@ -1,9 +1,17 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-24 13:49 PDT. 443 unique matching jobs.
+Updated 2026-08-24 14:45 PDT. 451 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 50 | [Software Engineer Intern, XR Team (Fall 2026)](https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc) | Rivet Industries | Bellevue, WA | Internship Engine | 2026-08-24 14:45 |
+| 50 | [Machine Learning Software Engineer New Grad](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer----New-Grad-_R-0000182134?utm_source=Simplify&ref=Simplify) | Royal Bank of Canada | Toronto, ON, Canada Vancouver, BC, Canada | Simplify New Grad Positions | 2026-08-24 14:45 |
+| 50 | [Machine Learning Software Engineer 1 New Grad](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer-I--New-Grad-_R-0000183231?utm_source=Simplify&ref=Simplify) | Royal Bank of Canada | Toronto, ON, Canada | Simplify New Grad Positions | 2026-08-24 14:45 |
+| 50 | [Machine Learning Software Engineer New Grad](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/Machine-Learning-Software-Engineer----New-Grad-_R-0000181820?utm_source=Simplify&ref=Simplify) | Royal Bank of Canada | Montreal, QC, Canada | Simplify New Grad Positions | 2026-08-24 14:45 |
+| 50 | [Software Engineer Intern - Edge - Summer 2027](https://job-boards.greenhouse.io/sage49/jobs/6131191004?utm_source=Simplify&ref=Simplify) | Sage | NYC | Simplify Summer Internships | 2026-08-24 14:45 |
+| 50 | [Software Engineer Intern - Full Stack](https://job-boards.greenhouse.io/sage49/jobs/6131185004?utm_source=Simplify&ref=Simplify) | Sage | NYC | Simplify Summer Internships | 2026-08-24 14:45 |
+| 50 | [Software Engineer Intern - Product Development - Summer 2027](https://careers.msasafety.com/jobs/9993?icims=1&utm_source=Simplify&ref=Simplify) | MSA Safety | Cranberry Township, PA | Simplify Summer Internships | 2026-08-24 14:45 |
+| 40 | [Software Engineer 1](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527?utm_source=Simplify&ref=Simplify) | Cisco | Milpitas, CA San Jose, CA | Simplify New Grad Positions | 2026-08-24 14:45 |
 | 54 | [Embedded Software Engineer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571?utm_source=Simplify&ref=Simplify) | Ciena | Ottawa, ON, Canada | Simplify New Grad Positions | 2026-08-24 13:49 |
 | 50 | [Software Developer Intern](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636?utm_source=Simplify&ref=Simplify) | DuCharme, McMillen & Associates | Indianapolis, IN Fort Wayne, IN | Simplify Summer Internships | 2026-08-24 13:49 |
 | 50 | [Software Engineer Intern](https://careers.garmin.com/jobs/19693?icims=1&utm_source=Simplify&ref=Simplify) | Garmin | Olathe, KS | Simplify Summer Internships | 2026-08-24 13:49 |
