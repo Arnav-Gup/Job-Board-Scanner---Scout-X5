@@ -1,9 +1,10 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-24 02:30 PDT. 430 unique matching jobs.
+Updated 2026-08-24 07:26 PDT. 431 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 42 | [Quantitative Developer - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134) | InfiniteQuant | New York, New York, United States (Remote) | Internship Engine | 2026-08-24 07:26 |
 | 42 | [Quantitative Developer - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000145205764) | InfiniteQuant | New York, New York, United States (Remote) | Internship Engine | 2026-08-24 02:30 |
 | 60 | [Software Engineer Intern](https://lifeattiktok.com/search/7676276048527214901?utm_source=Simplify&ref=Simplify) | 🔥 TikTok | San Jose, CA | Simplify Summer Internships | 2026-08-21 18:51 |
 | 50 | [Software Engineer 1 New Grad - QA](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007?utm_source=Simplify&ref=Simplify) | True Anomaly | Long Beach, CA Denver, CO | Simplify New Grad Positions | 2026-08-21 18:51 |
