@@ -1,9 +1,15 @@
-# Scout X5 matches - 2026-08-24 17:48 UTC
+# Scout X5 matches - 2026-08-24 20:12 UTC
 
 @Arnav-Gup new matching jobs are ready.
 
-## [Single-Family Software Developer Intern- Summer 2027](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) - 62/100
+## [Tech & Data Summer Program 2027 - Software Engineer Intern (Columbus)](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609) - 58/100
 
-- Company/source: Freddie Mac / Internship Engine
-- Location: McLean, VA
-- Why: SWE role: software developer; profile overlap: c, c++, python; early career: intern
+- Company/source: The Hartford / Internship Engine
+- Location: Columbus, OH
+- Why: SWE role: software engineer; profile overlap: c, python; early career: intern
+
+## [Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford)](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) - 58/100
+
+- Company/source: The Hartford / Internship Engine
+- Location: Hartford, CT
+- Why: SWE role: software engineer; profile overlap: c, python; early career: intern

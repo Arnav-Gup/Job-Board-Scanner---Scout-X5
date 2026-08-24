@@ -1,9 +1,11 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-24 10:48 PDT. 438 unique matching jobs.
+Updated 2026-08-24 13:12 PDT. 440 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 58 | [Tech & Data Summer Program 2027 - Software Engineer Intern (Columbus)](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609) | The Hartford | Columbus, OH | Internship Engine | 2026-08-24 13:12 |
+| 58 | [Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford)](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) | The Hartford | Hartford, CT | Internship Engine | 2026-08-24 13:12 |
 | 62 | [Single-Family Software Developer Intern- Summer 2027](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) | Freddie Mac | McLean, VA | Internship Engine | 2026-08-24 10:48 |
 | 50 | [Software Engineer Early Career - Multiple Teams 🎓](https://www.google.com/about/careers/applications/jobs/results/84680705375642310?utm_source=Simplify&ref=Simplify) | 🔥 Google | 12 locations Madison, WI Seattle, WA Austin, TX LA Raleigh, NC San Bruno, CA Durham, NC Kirkland, WA NYC Sunnyvale, CA Mountain View, CA Atlanta, GA | Simplify New Grad Positions | 2026-08-24 08:23 |
 | 50 | [Software Developer Intern 🎓](https://www.google.com/about/careers/applications/jobs/results/112518690523488966?utm_source=Simplify&ref=Simplify) | 🔥 Google | Montreal, QC, Canada Toronto, ON, Canada Waterloo, ON, Canada | Simplify Summer Internships | 2026-08-24 08:23 |
