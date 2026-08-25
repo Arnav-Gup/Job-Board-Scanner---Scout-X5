@@ -1,9 +1,11 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-24 20:13 PDT. 459 unique matching jobs.
+Updated 2026-08-24 21:02 PDT. 461 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 66 | [Embedded Software Engineer Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003) | Meridian Partners | Cambridge, MA | Internship Engine | 2026-08-24 21:02 |
+| 54 | [Python Software Engineer Graduate Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968485003) | Meridian Partners | Cambridge, MA, Arlington, VA, Seattle, WA | Internship Engine | 2026-08-24 21:02 |
 | 66 | [Flight Software Engineer Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003) | Meridian Partners | Cambridge, MA | Internship Engine | 2026-08-24 20:13 |
 | 54 | [Cloud Software Engineer Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003) | Meridian Partners | Cambridge, MA | Internship Engine | 2026-08-24 20:13 |
 | 54 | [Front End Software Engineer Graduate Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968076003) | Meridian Partners | Cambridge, MA | Internship Engine | 2026-08-24 20:13 |
