@@ -1,9 +1,18 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-25 10:46 PDT. 466 unique matching jobs.
+Updated 2026-08-25 12:18 PDT. 475 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 54 | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5211595007?utm_source=Simplify&ref=Simplify) | Verkada | San Mateo, CA | Simplify Summer Internships | 2026-08-25 12:18 |
+| 50 | [Mobile Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify) | Verkada | San Mateo, CA | Simplify Summer Internships | 2026-08-25 12:18 |
+| 50 | [Security Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5213881007?utm_source=Simplify&ref=Simplify) | Verkada | San Mateo, CA | Simplify Summer Internships | 2026-08-25 12:18 |
+| 50 | [Frontend Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5210942007?utm_source=Simplify&ref=Simplify) | Verkada | San Mateo, CA | Simplify Summer Internships | 2026-08-25 12:18 |
+| 50 | [Backend Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5210813007?utm_source=Simplify&ref=Simplify) | Verkada | San Mateo, CA | Simplify Summer Internships | 2026-08-25 12:18 |
+| 50 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineering-Intern--Summer-2027-_01867697?utm_source=Simplify&ref=Simplify) | RTX | Anaheim, CA | Simplify Summer Internships | 2026-08-25 12:18 |
+| 50 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineering-Intern--Summer-2027-_01868485?utm_source=Simplify&ref=Simplify) | RTX | Jupiter, FL | Simplify Summer Internships | 2026-08-25 12:18 |
+| 50 | [Entry Level Software Engineer](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0165144?utm_source=Simplify&ref=Simplify) | Amentum | Fredericksburg, VA Dahlgren, VA | Simplify New Grad Positions | 2026-08-25 12:18 |
+| 40 | [Software Engineer 1 - Shark](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1?utm_source=Simplify&ref=Simplify) | Apex Fintech Solutions | 4 locations Austin, TX Dallas, TX Chicago, IL NYC | Simplify New Grad Positions | 2026-08-25 12:18 |
 | 58 | [Deepfield Software Engineer Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908) | Nokia | United States | Internship Engine | 2026-08-25 10:46 |
 | 50 | [Software Engineer New Grad - LEAP](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2134380?utm_source=Simplify&ref=Simplify) | Fidelity Investments | Westlake, TX Merrimack, NH | Simplify New Grad Positions | 2026-08-25 09:01 |
 | 54 | [Software Engineer Intern - (Summer 2027)](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6) | The Voleon Group | Berkeley, CA | Internship Engine | 2026-08-25 08:07 |
