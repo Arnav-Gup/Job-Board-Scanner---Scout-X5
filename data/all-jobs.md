@@ -1,9 +1,12 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-24 21:02 PDT. 461 unique matching jobs.
+Updated 2026-08-25 08:07 PDT. 464 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 54 | [Software Engineer Intern - (Summer 2027)](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6) | The Voleon Group | Berkeley, CA | Internship Engine | 2026-08-25 08:07 |
+| 50 | [Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486?utm_source=Simplify&ref=Simplify) | Northrop Grumman | Huntsville, AL | Simplify Summer Internships | 2026-08-25 08:07 |
+| 50 | [Software Engineer Co-op - Avionics Platform Software](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027---Onsite-_01869518?utm_source=Simplify&ref=Simplify) | RTX | Cedar Rapids, IA | Simplify Summer Internships | 2026-08-25 08:07 |
 | 66 | [Embedded Software Engineer Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003) | Meridian Partners | Cambridge, MA | Internship Engine | 2026-08-24 21:02 |
 | 54 | [Python Software Engineer Graduate Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968485003) | Meridian Partners | Cambridge, MA, Arlington, VA, Seattle, WA | Internship Engine | 2026-08-24 21:02 |
 | 66 | [Flight Software Engineer Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003) | Meridian Partners | Cambridge, MA | Internship Engine | 2026-08-24 20:13 |
