@@ -1,9 +1,27 @@
-# Scout X5 matches - 2026-08-25 01:53 UTC
+# Scout X5 matches - 2026-08-25 03:13 UTC
 
 @Arnav-Gup new matching jobs are ready.
 
-## [Software Engineer New Grad](https://jobs.ashbyhq.com/bloxd/1c9d0167-b9b4-4aaa-af4f-8eccd89bf8a3/application?embed=true&utm_source=Simplify&ref=Simplify) - 50/100
+## [Flight Software Engineer Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003) - 66/100
 
-- Company/source: Bloxd / Simplify New Grad Positions
-- Location: London, UK
-- Why: SWE role: software engineer; early career: new grad
+- Company/source: Meridian Partners / Internship Engine
+- Location: Cambridge, MA
+- Why: SWE role: software engineer; profile overlap: c, c++, python, linux; early career: co-op
+
+## [Cloud Software Engineer Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003) - 54/100
+
+- Company/source: Meridian Partners / Internship Engine
+- Location: Cambridge, MA
+- Why: SWE role: software engineer; profile overlap: python; early career: co-op
+
+## [Front End Software Engineer Graduate Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968076003) - 54/100
+
+- Company/source: Meridian Partners / Internship Engine
+- Location: Cambridge, MA
+- Why: SWE role: software engineer; profile overlap: python; early career: co-op
+
+## [Full Stack Software Engineer Graduate Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968100003) - 54/100
+
+- Company/source: Meridian Partners / Internship Engine
+- Location: Cambridge, MA, Arlington, VA, Seattle, WA
+- Why: SWE role: software engineer; profile overlap: python; early career: co-op
