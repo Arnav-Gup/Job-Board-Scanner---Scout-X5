@@ -1,9 +1,10 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-25 15:03 PDT. 487 unique matching jobs.
+Updated 2026-08-25 16:11 PDT. 488 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 50 | [Software Engineer & Computer Science - Summer 2027 Intern (US Person Required)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155557) | Honeywell | United States | Internship Engine | 2026-08-25 16:11 |
 | 50 | [Software Engineer & Computer Science - Summer 2027 Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155558) | Honeywell | United States | Internship Engine | 2026-08-25 15:03 |
 | 66 | [Embedded Engineer - Summer 2027 Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155562) | Honeywell | United States | Internship Engine | 2026-08-25 14:45 |
 | 66 | [Embedded Engineer - Summer 2027 Intern (US Person Required)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155561) | Honeywell | United States | Internship Engine | 2026-08-25 14:45 |
