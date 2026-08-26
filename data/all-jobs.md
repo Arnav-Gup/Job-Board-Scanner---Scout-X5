@@ -1,9 +1,12 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-26 12:19 PDT. 505 unique matching jobs.
+Updated 2026-08-26 15:30 PDT. 508 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 54 | [Firmware Engineer Intern - Summer 2027 🎓](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957?utm_source=Simplify&ref=Simplify) | Vertiv | Delaware, OH | Simplify Summer Internships | 2026-08-26 15:30 |
+| 50 | [Software Engineer Intern - Technology, Data, AI, and Operations](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649?utm_source=Simplify&ref=Simplify) | The Hartford | Charlotte, NC | Simplify Summer Internships | 2026-08-26 15:30 |
+| 50 | [Software Developer/Data Scientist Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120?utm_source=Simplify&ref=Simplify) | CACI | Sterling, VA Denver, CO Sarasota, FL | Simplify Summer Internships | 2026-08-26 15:30 |
 | 50 | [Entry Level Software Engineer - Draper, UT](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202681804?utm_source=Simplify&ref=Simplify) | Cox Automotive | Draper, UT | Simplify New Grad Positions | 2026-08-26 12:19 |
 | 50 | [Entry Level Software Engineer](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202677231?utm_source=Simplify&ref=Simplify) | Cox | Draper, UT | Simplify New Grad Positions | 2026-08-26 12:19 |
 | 74 | [Robotics Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8695475002) | Atoms | Pittsburgh, PA | Internship Engine | 2026-08-26 10:23 |
