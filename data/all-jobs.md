@@ -1,9 +1,12 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-25 18:59 PDT. 499 unique matching jobs.
+Updated 2026-08-26 07:27 PDT. 502 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 50 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890?utm_source=Simplify&ref=Simplify) | RTX | Woburn, MA | Simplify Summer Internships | 2026-08-26 07:27 |
+| 50 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868869?utm_source=Simplify&ref=Simplify) | RTX | Richardson, TX | Simplify Summer Internships | 2026-08-26 07:27 |
+| 50 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868886?utm_source=Simplify&ref=Simplify) | RTX | Richardson, TX | Simplify Summer Internships | 2026-08-26 07:27 |
 | 60 | [AI Infrastructure Engineer Intern - Recommendation & LLM](https://lifeattiktok.com/search/7672671220798818613?utm_source=Simplify&ref=Simplify) | 🔥 TikTok | San Jose, CA | Simplify Summer Internships | 2026-08-25 18:59 |
 | 58 | [Embedded Firmware Engineer New Grad](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/New-College-Grad---Embedded-Firmware-Engineer_JR109306?utm_source=Simplify&ref=Simplify) | Micron Technology | Boise, ID | Simplify New Grad Positions | 2026-08-25 18:59 |
 | 50 | [Software Engineer 1 New Grad - Perception](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007?utm_source=Simplify&ref=Simplify) | True Anomaly | Long Beach, CA Denver, CO | Simplify New Grad Positions | 2026-08-25 18:59 |
