@@ -1,39 +1,45 @@
-# Scout X5 matches - 2026-08-27 04:02 UTC
+# Scout X5 matches - 2026-08-27 15:16 UTC
 
 @Arnav-Gup new matching jobs are ready.
 
-## [Software Engineer Intern - 1076](https://jobs.lever.co/economicmodeling/a6d45716-c743-4013-a1d8-310850c115f9) - 62/100
+## [Software Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100363) - 62/100
 
-- Company/source: Lightcast / Internship Engine
-- Location: Moscow, ID
+- Company/source: Ambarella / Internship Engine
+- Location: US Headquarters
 - Why: SWE role: software engineer; profile overlap: c, c++, python; early career: intern
 
-## [Software Engineer Intern - Artificial Intelligence](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648?utm_source=Simplify&ref=Simplify) - 60/100
+## [University - 2027 Summer Games Software Developer Intern - El Segundo, CA](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046) - 62/100
 
-- Company/source: Leidos / Simplify Summer Internships
-- Location: Remote in USA Shiloh, IL Odenton, MD
-- Why: SWE role: software engineer; early career: intern; location: remote
+- Company/source: Booz Allen / Internship Engine
+- Location: El Segundo, CA
+- Why: SWE role: software developer; profile overlap: c, c++, python; early career: intern
 
-## [Embedded Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003?utm_source=Simplify&ref=Simplify) - 54/100
+## [University - 2027 Summer Games Software Developer Intern - San Diego, CA](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038) - 62/100
 
-- Company/source: Axon / Simplify Summer Internships
-- Location: Boston, MA Seattle, WA
-- Why: SWE role: embedded engineer; profile overlap: embedded; early career: intern
+- Company/source: Booz Allen / Internship Engine
+- Location: San Diego, CA
+- Why: SWE role: software developer; profile overlap: c, c++, python; early career: intern
 
-## [Software Engineer – Observability, Co-op](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434) - 54/100
+## [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890-1?utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: Ancestry / Internship Engine
-- Location: Draper, Utah
-- Why: SWE role: software engineer; profile overlap: python; early career: co-op
+- Company/source: RTX / Simplify Summer Internships
+- Location: Woburn, MA
+- Why: SWE role: software engineer; early career: intern
 
-## [Software Engineer – New Grad - Cases Product](https://jobs.ashbyhq.com/evenup/41488eae-50a9-4ad3-b6e0-2fd28efb238e/application?utm_source=Simplify&ref=Simplify) - 50/100
+## [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineer-Intern--Summer-2027-_01868801?utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: EvenUp / Simplify New Grad Positions
-- Location: Toronto, ON, Canada SF
-- Why: SWE role: software engineer; early career: new grad
+- Company/source: RTX / Simplify Summer Internships
+- Location: State College, PA
+- Why: SWE role: software engineer; early career: intern
 
-## [Software Developer Intern - Summer 2027](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121?utm_source=Simplify&ref=Simplify) - 50/100
+## [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007?utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: Auto-Owners Insurance / Simplify Summer Internships
-- Location: Lansing, MI
-- Why: SWE role: software developer; early career: intern
+- Company/source: RTX / Simplify Summer Internships
+- Location: Huntsville, AL
+- Why: SWE role: software engineer; early career: intern
+
+## [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineering-Intern-Summer-2027-_01870349-1?utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: RTX / Simplify Summer Internships
+- Location: Cedar Rapids, IA
+- Why: SWE role: software engineer; early career: intern

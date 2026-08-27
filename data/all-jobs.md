@@ -1,9 +1,16 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-26 21:02 PDT. 514 unique matching jobs.
+Updated 2026-08-27 08:16 PDT. 521 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 62 | [Software Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100363) | Ambarella | US Headquarters | Internship Engine | 2026-08-27 08:16 |
+| 62 | [University - 2027 Summer Games Software Developer Intern - El Segundo, CA](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046) | Booz Allen | El Segundo, CA | Internship Engine | 2026-08-27 08:16 |
+| 62 | [University - 2027 Summer Games Software Developer Intern - San Diego, CA](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038) | Booz Allen | San Diego, CA | Internship Engine | 2026-08-27 08:16 |
+| 50 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890-1?utm_source=Simplify&ref=Simplify) | RTX | Woburn, MA | Simplify Summer Internships | 2026-08-27 08:16 |
+| 50 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineer-Intern--Summer-2027-_01868801?utm_source=Simplify&ref=Simplify) | RTX | State College, PA | Simplify Summer Internships | 2026-08-27 08:16 |
+| 50 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007?utm_source=Simplify&ref=Simplify) | RTX | Huntsville, AL | Simplify Summer Internships | 2026-08-27 08:16 |
+| 50 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineering-Intern-Summer-2027-_01870349-1?utm_source=Simplify&ref=Simplify) | RTX | Cedar Rapids, IA | Simplify Summer Internships | 2026-08-27 08:16 |
 | 62 | [Software Engineer Intern - 1076](https://jobs.lever.co/economicmodeling/a6d45716-c743-4013-a1d8-310850c115f9) | Lightcast | Moscow, ID | Internship Engine | 2026-08-26 21:02 |
 | 54 | [Embedded Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003?utm_source=Simplify&ref=Simplify) | Axon | Boston, MA Seattle, WA | Simplify Summer Internships | 2026-08-26 21:02 |
 | 54 | [Software Engineer – Observability, Co-op](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434) | Ancestry | Draper, Utah | Internship Engine | 2026-08-26 21:02 |
