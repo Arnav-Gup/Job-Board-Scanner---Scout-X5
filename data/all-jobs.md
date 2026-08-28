@@ -1,9 +1,16 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-28 05:15 PDT. 530 unique matching jobs.
+Updated 2026-08-28 15:27 PDT. 537 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 50 | [Junior Software Engineer - Entry Level](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer_R1608?utm_source=Simplify&ref=Simplify) | Torch Technologies | Huntsville, AL | Simplify New Grad Positions | 2026-08-28 15:27 |
+| 50 | [Software Developer Intern - University - 2027 Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130?utm_source=Simplify&ref=Simplify) | Booz Allen | Colorado Springs, CO | Simplify Summer Internships | 2026-08-28 15:27 |
+| 50 | [Software Developer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141?utm_source=Simplify&ref=Simplify) | Booz Allen | Rome, NY | Simplify Summer Internships | 2026-08-28 15:27 |
+| 50 | [Software Developer Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Software-Developer-Intern_R0248134?utm_source=Simplify&ref=Simplify) | Booz Allen | Charleston, SC | Simplify Summer Internships | 2026-08-28 15:27 |
+| 50 | [Software Developer Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138?utm_source=Simplify&ref=Simplify) | Booz Allen | Atlanta, GA | Simplify Summer Internships | 2026-08-28 15:27 |
+| 50 | [AI Software Developer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115?utm_source=Simplify&ref=Simplify) | Booz Allen | San Diego, CA | Simplify Summer Internships | 2026-08-28 15:27 |
+| 40 | [Junior Software Developer - Systems Software](https://careers-empowerai.icims.com/jobs/9489/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Empower AI | Remote in USA | Simplify New Grad Positions | 2026-08-28 15:27 |
 | 46 | [Software Development Engineer Intern, Annapurna Labs - 2027](https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) | Amazon | Cupertino, California, USA | Internship Engine | 2026-08-28 05:15 |
 | 40 | [Robotics - Software Development Engineer Fall Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026) | Amazon | Westboro, Massachusetts, USA | Internship Engine | 2026-08-28 05:15 |
 | 54 | [Embedded Software Engineer Intern](https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7/apply?utm_source=Simplify&ref=Simplify) | CesiumAstro | Austin, TX | Simplify Summer Internships | 2026-08-27 17:27 |
