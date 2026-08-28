@@ -1,9 +1,11 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-27 17:27 PDT. 528 unique matching jobs.
+Updated 2026-08-28 05:15 PDT. 530 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 46 | [Software Development Engineer Intern, Annapurna Labs - 2027](https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) | Amazon | Cupertino, California, USA | Internship Engine | 2026-08-28 05:15 |
+| 40 | [Robotics - Software Development Engineer Fall Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026) | Amazon | Westboro, Massachusetts, USA | Internship Engine | 2026-08-28 05:15 |
 | 54 | [Embedded Software Engineer Intern](https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7/apply?utm_source=Simplify&ref=Simplify) | CesiumAstro | Austin, TX | Simplify Summer Internships | 2026-08-27 17:27 |
 | 50 | [Software Engineer Intern - US - Summer 2027](https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application?embed=true&utm_source=Simplify&ref=Simplify) | TELUS Digital | Durham, NC Columbus, OH Charlottesville, VA | Simplify Summer Internships | 2026-08-27 17:27 |
 | 50 | [Software Engineer Intern - Vehicle Software - Summer 2027](https://www.tesla.com/careers/search/job/281097?utm_source=Simplify&ref=Simplify) | 🔥 Tesla | Palo Alto, CA | Simplify Summer Internships | 2026-08-27 17:27 |
