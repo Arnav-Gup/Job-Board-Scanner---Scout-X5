@@ -1,9 +1,10 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-29 04:07 PDT. 544 unique matching jobs.
+Updated 2026-08-29 11:53 PDT. 545 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 42 | [Summer 2027 Intern - Software Engineering](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190) | Workiva | USA - Remote | Internship Engine | 2026-08-29 11:53 |
 | 40 | [Embedded Software Engineering Intern (2027 Summer Internship)](https://jobs.ashbyhq.com/northwoodspace/d0cca9dd-ea90-4c3b-94b4-17761932d11c) | Northwood Space | Torrance, CA | Internship Engine | 2026-08-29 04:07 |
 | 58 | [Mission Critical Networks Software Engineer - 2027 Co-op](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782) | Motorola | Schaumburg, IL, More... | Internship Engine | 2026-08-28 20:53 |
 | 54 | [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true&utm_source=Simplify&ref=Simplify) | Northwood Space | LA Torrance, CA | Simplify Summer Internships | 2026-08-28 20:53 |
