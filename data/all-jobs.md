@@ -1,9 +1,15 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-29 11:53 PDT. 545 unique matching jobs.
+Updated 2026-08-31 13:51 PDT. 551 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 60 | [Software Engineer Intern](https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263) | IGS Energy | Ohio Remote | Internship Engine | 2026-08-31 13:51 |
+| 54 | [Software Engineer Intern (Summer 2027)](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928) | DraftKings | Boston, MA | Internship Engine | 2026-08-31 13:51 |
+| 50 | [Software Engineer Intern](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937?utm_source=Simplify&ref=Simplify) | The Home Depot | Atlanta, GA | Simplify Summer Internships | 2026-08-31 13:51 |
+| 50 | [Software Engineer Intern](https://careers.garmin.com/jobs/19858?icims=1&utm_source=Simplify&ref=Simplify) | Garmin | Chandler, AZ | Simplify Summer Internships | 2026-08-31 13:51 |
+| 50 | [Software Engineer New Grad - Risk Solutions Technology Graduate Program](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2?utm_source=Simplify&ref=Simplify) | LexisNexis Risk Solutions | Boca Raton, FL | Simplify New Grad Positions | 2026-08-31 13:51 |
+| 50 | [Software Engineer New Grad - Risk Solutions Technology Graduate Program](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617?utm_source=Simplify&ref=Simplify) | LexisNexis Risk Solutions | Alpharetta, GA | Simplify New Grad Positions | 2026-08-31 13:51 |
 | 42 | [Summer 2027 Intern - Software Engineering](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190) | Workiva | USA - Remote | Internship Engine | 2026-08-29 11:53 |
 | 40 | [Embedded Software Engineering Intern (2027 Summer Internship)](https://jobs.ashbyhq.com/northwoodspace/d0cca9dd-ea90-4c3b-94b4-17761932d11c) | Northwood Space | Torrance, CA | Internship Engine | 2026-08-29 04:07 |
 | 58 | [Mission Critical Networks Software Engineer - 2027 Co-op](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782) | Motorola | Schaumburg, IL, More... | Internship Engine | 2026-08-28 20:53 |
