@@ -1,93 +1,123 @@
-# Scout X5 matches - 2026-09-01 18:33 UTC
+# Scout X5 matches - 2026-09-01 21:22 UTC
 
 @Arnav-Gup new matching jobs are ready.
 
-## [Software Engineer Intern - Relational Database](https://jobs.bytedance.com/en/position/7678449088065997109/detail?utm_source=Simplify&ref=Simplify) - 60/100
+## [Software Engineer Intern - Hardware in the Loop](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b/apply?utm_source=Simplify&ref=Simplify) - 54/100
 
-- Company/source: 🔥 ByteDance / Simplify Summer Internships
-- Location: San Jose, CA
-- Why: SWE role: software engineer; early career: intern; location: san jose
-
-## [2027 Summer Internship - Software Developer](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390) - 54/100
-
-- Company/source: Newrez / Internship Engine
-- Location: TX, Coppell
-- Why: SWE role: software developer; profile overlap: c; early career: internship
-
-## [Software Developer New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608?utm_source=Simplify&ref=Simplify) - 50/100
-
-- Company/source: Ciena / Simplify New Grad Positions
+- Company/source: Hermeus / Simplify Summer Internships
 - Location: Atlanta, GA
+- Why: SWE role: software engineer; profile overlap: hardware; early career: intern
+
+## [Software Engineer Rotational Program - Early Career](https://job-boards.greenhouse.io/intersystems/jobs/7827894003?utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: InterSystems / Simplify New Grad Positions
+- Location: Boston, MA
+- Why: SWE role: software engineer; early career: early career
+
+## [Software Developer New Grad - Engagement Optimization](https://careers.jhuapl.edu/jobs/59510?icims=1&utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: Johns Hopkins Applied Physics Laboratory / Simplify New Grad Positions
+- Location: Laurel, MD
 - Why: SWE role: software developer; early career: new grad
 
-## [Software Engineer Intern - AI and ML](https://apply.careers.microsoft.com/careers/job/1970393556972698?utm_source=Simplify&ref=Simplify) - 50/100
+## [Software Engineer 1 Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013259?utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: 🔥 Microsoft / Simplify Summer Internships
-- Location: Boston, MA
+- Company/source: American Express / Simplify New Grad Positions
+- Location: Phoenix, AZ
 - Why: SWE role: software engineer; early career: intern
 
-## [Software Engineer Intern - AI and ML Projects](https://apply.careers.microsoft.com/careers/job/1970393556972687?utm_source=Simplify&ref=Simplify) - 50/100
+## [Entry Level Software Engineer](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618756?utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: 🔥 Microsoft / Simplify Summer Internships
-- Location: Mountain View, CA
+- Company/source: General Motors / Simplify New Grad Positions
+- Location: Milford, MI Warren, MI
+- Why: SWE role: software engineer; early career: entry level
+
+## [Entry Level Software Engineer](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618501?utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: General Motors / Simplify New Grad Positions
+- Location: Milford, MI Warren, MI
+- Why: SWE role: software engineer; early career: entry level
+
+## [Software Engineer Intern - Modeling & Simulation - Multiple Teams](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply?utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: Hermeus / Simplify Summer Internships
+- Location: LA
 - Why: SWE role: software engineer; early career: intern
 
-## [Software Engineer Intern](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667?utm_source=Simplify&ref=Simplify) - 50/100
+## [Software Engineer Intern](https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: Teledyne / Simplify Summer Internships
-- Location: Huntsville, AL
+- Company/source: 🔥 Atlassian / Simplify Summer Internships
+- Location: Seattle, WA SF
 - Why: SWE role: software engineer; early career: intern
 
-## [Systems Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365?utm_source=Simplify&ref=Simplify) - 50/100
+## [Software Developer Intern - Tactical System Prototyping and Deployment](https://careers.jhuapl.edu/jobs/59564?icims=1&utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: Johns Hopkins Applied Physics Laboratory / Simplify Summer Internships
+- Location: Laurel, MD
+- Why: SWE role: software developer; early career: intern
+
+## [Cyber Software Engineer Intern - Capabilities Development](https://careers.jhuapl.edu/jobs/59779?icims=1&utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: Johns Hopkins Applied Physics Laboratory / Simplify Summer Internships
+- Location: Laurel, MD
+- Why: SWE role: software engineer; early career: intern
+
+## [Software Engineer Co-op - R&D 🎓](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891?utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: Philips / Simplify Summer Internships
+- Location: Cambridge, MA
+- Why: SWE role: software engineer; early career: co-op
+
+## [Software Engineer Co-op](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743?utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: Johnson & Johnson / Simplify Summer Internships
+- Location: Cincinnati, OH
+- Why: SWE role: software engineer; early career: co-op
+
+## [Software Developer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394?utm_source=Simplify&ref=Simplify) - 50/100
 
 - Company/source: Booz Allen / Simplify Summer Internships
-- Location: San Diego, CA
-- Why: SWE role: systems engineer; early career: intern
+- Location: Huntsville, AL
+- Why: SWE role: software developer; early career: intern
 
-## [Systems Engineer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370?utm_source=Simplify&ref=Simplify) - 50/100
+## [Software Developer Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393?utm_source=Simplify&ref=Simplify) - 50/100
 
 - Company/source: Booz Allen / Simplify Summer Internships
 - Location: Honolulu, HI
-- Why: SWE role: systems engineer; early career: intern
+- Why: SWE role: software developer; early career: intern
 
-## [Systems Engineer Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369?utm_source=Simplify&ref=Simplify) - 50/100
-
-- Company/source: Booz Allen / Simplify Summer Internships
-- Location: Colorado Springs, CO
-- Why: SWE role: systems engineer; early career: intern
-
-## [Systems Engineer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366?utm_source=Simplify&ref=Simplify) - 50/100
+## [Software Developer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Software-Developer-Intern---Ft-Walton-Beach--FL_R0248404?utm_source=Simplify&ref=Simplify) - 50/100
 
 - Company/source: Booz Allen / Simplify Summer Internships
-- Location: San Diego, CA
-- Why: SWE role: systems engineer; early career: intern
+- Location: Fort Walton Beach, FL
+- Why: SWE role: software developer; early career: intern
 
-## [Systems Engineer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381?utm_source=Simplify&ref=Simplify) - 50/100
-
-- Company/source: Booz Allen / Simplify Summer Internships
-- Location: Atlanta, GA
-- Why: SWE role: systems engineer; early career: intern
-
-## [Systems Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361?utm_source=Simplify&ref=Simplify) - 50/100
+## [Software Developer Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403?utm_source=Simplify&ref=Simplify) - 50/100
 
 - Company/source: Booz Allen / Simplify Summer Internships
-- Location: McLean, VA
-- Why: SWE role: systems engineer; early career: intern
+- Location: Annapolis Junction, MD
+- Why: SWE role: software developer; early career: intern
 
-## [Systems Engineer Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368?utm_source=Simplify&ref=Simplify) - 50/100
+## [Software Developer Intern - Avionics Software](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Graduate_R71434?utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: Booz Allen / Simplify Summer Internships
-- Location: Colorado Springs, CO
-- Why: SWE role: systems engineer; early career: intern
+- Company/source: Blue Origin / Simplify Summer Internships
+- Location: 4 locations Washington LA Longmont, CO Denver, CO
+- Why: SWE role: software developer; early career: intern
 
-## [Systems Engineer Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386?utm_source=Simplify&ref=Simplify) - 50/100
+## [Test Engineer Intern](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Van-Horn-TX/Summer-2027-Test-Engineering-Internship---Graduate_R71432?utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: Booz Allen / Simplify Summer Internships
-- Location: Rome, NY
-- Why: SWE role: systems engineer; early career: intern
+- Company/source: Blue Origin / Simplify Summer Internships
+- Location: 5 locations Washington Florida Denver, CO Huntsville, AL Van Horn, TX
+- Why: SWE role: test engineer; early career: intern
 
-## [Software Engineer Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556951950?utm_source=Simplify&ref=Simplify) - 50/100
+## [Software Developer Intern - Undergraduate](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Undergraduate_R71425?utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: 🔥 Microsoft / Simplify Summer Internships
-- Location: Redmond, WA
-- Why: SWE role: software engineer; early career: intern
+- Company/source: Blue Origin / Simplify Summer Internships
+- Location: Seattle, WA LA Denver, CO
+- Why: SWE role: software developer; early career: intern
+
+## [Software Engineering Intern, Connectivity (Summer 2027)](https://job-boards.greenhouse.io/hpiq/jobs/6176783004) - 42/100
+
+- Company/source: HP IQ / Internship Engine
+- Location: San Francisco, CA
+- Why: profile overlap: c, c++, python; early career: intern; location: san francisco
