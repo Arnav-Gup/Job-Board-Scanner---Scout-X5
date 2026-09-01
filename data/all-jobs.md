@@ -1,9 +1,13 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-09-01 03:29 PDT. 610 unique matching jobs.
+Updated 2026-09-01 08:12 PDT. 614 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 54 | [Firmware Engineer Intern/Co-op - Long Term](https://careers.amd.com/jobs/90297?icims=1&utm_source=Simplify&ref=Simplify) | 🔥 AMD | Markham, ON, Canada | Simplify Summer Internships | 2026-09-01 08:12 |
+| 50 | [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/91367?icims=1&utm_source=Simplify&ref=Simplify) | 🔥 AMD | Vancouver, BC, Canada | Simplify Summer Internships | 2026-09-01 08:12 |
+| 50 | [Graphics Software Engineer Intern/Co-op](https://careers.amd.com/jobs/91359?icims=1&utm_source=Simplify&ref=Simplify) | 🔥 AMD | Markham, ON, Canada | Simplify Summer Internships | 2026-09-01 08:12 |
+| 50 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software--Engineering-Intern--Summer-2027-_01868432?utm_source=Simplify&ref=Simplify) | RTX | Cedar Rapids, IA | Simplify Summer Internships | 2026-09-01 08:12 |
 | 54 | [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/91320?icims=1&utm_source=Simplify&ref=Simplify) | 🔥 AMD | Markham, ON, Canada | Simplify Summer Internships | 2026-09-01 03:29 |
 | 54 | [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/91313?icims=1&utm_source=Simplify&ref=Simplify) | 🔥 AMD | Vancouver, BC, Canada | Simplify Summer Internships | 2026-09-01 03:29 |
 | 54 | [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90301?icims=1&utm_source=Simplify&ref=Simplify) | 🔥 AMD | Vancouver, BC, Canada | Simplify Summer Internships | 2026-09-01 03:29 |
