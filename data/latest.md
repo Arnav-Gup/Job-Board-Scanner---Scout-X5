@@ -1,21 +1,105 @@
-# Scout X5 matches - 2026-09-01 08:45 UTC
+# Scout X5 matches - 2026-09-01 10:29 UTC
 
 @Arnav-Gup new matching jobs are ready.
 
-## [Embedded Software Engineer Internship Summer 2027](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165) - 62/100
+## [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/91320?icims=1&utm_source=Simplify&ref=Simplify) - 54/100
 
-- Company/source: Vermeer / Internship Engine
-- Location: Pella, Iowa, USA - Corporate Office
-- Why: SWE role: software engineer; profile overlap: c, c++, embedded; early career: internship
+- Company/source: 🔥 AMD / Simplify Summer Internships
+- Location: Markham, ON, Canada
+- Why: SWE role: firmware engineer; profile overlap: firmware; early career: intern, co-op
 
-## [Software Engineer New Grad - Software Engineer 1](https://job-boards.greenhouse.io/katalyst/jobs/6176710004?utm_source=Simplify&ref=Simplify) - 50/100
+## [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/91313?icims=1&utm_source=Simplify&ref=Simplify) - 54/100
 
-- Company/source: Katalyst Space Technologies / Simplify New Grad Positions
-- Location: Broomfield, CO
+- Company/source: 🔥 AMD / Simplify Summer Internships
+- Location: Vancouver, BC, Canada
+- Why: SWE role: firmware engineer; profile overlap: firmware; early career: intern, co-op
+
+## [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90301?icims=1&utm_source=Simplify&ref=Simplify) - 54/100
+
+- Company/source: 🔥 AMD / Simplify Summer Internships
+- Location: Vancouver, BC, Canada
+- Why: SWE role: firmware engineer; profile overlap: firmware; early career: intern, co-op
+
+## [Firmware Engineer Intern - Weapons](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342606&utm_source=Simplify&ref=Simplify) - 54/100
+
+- Company/source: Textron / Simplify Summer Internships
+- Location: Hunt Valley, Cockeysville, MD
+- Why: SWE role: firmware engineer; profile overlap: firmware; early career: intern
+
+## [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8157838&utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: 🔥 Stripe / Simplify New Grad Positions
+- Location: Toronto, ON, Canada
 - Why: SWE role: software engineer; early career: new grad
 
-## [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008?utm_source=Simplify&ref=Simplify) - 50/100
+## [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744&utm_source=Simplify&ref=Simplify) - 50/100
 
-- Company/source: K2 Space / Simplify Summer Internships
-- Location: LA
+- Company/source: 🔥 Stripe / Simplify New Grad Positions
+- Location: Seattle, WA SF NYC
+- Why: SWE role: software engineer; early career: new grad
+
+## [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8130930&utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: 🔥 Stripe / Simplify New Grad Positions
+- Location: London, UK
+- Why: SWE role: software engineer; early career: new grad
+
+## [Software Engineer New Grad](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1?utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: LexisNexis Risk Solutions / Simplify New Grad Positions
+- Location: Alpharetta, GA
+- Why: SWE role: software engineer; early career: new grad
+
+## [Graphics Software Engineer Intern/Co-op](https://careers.amd.com/jobs/90305?icims=1&utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: 🔥 AMD / Simplify Summer Internships
+- Location: Markham, ON, Canada
+- Why: SWE role: software engineer; early career: intern, co-op
+
+## [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/91366?icims=1&utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: 🔥 AMD / Simplify Summer Internships
+- Location: Calgary, AB, Canada
+- Why: SWE role: software engineer; early career: intern, co-op
+
+## [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/91368?icims=1&utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: 🔥 AMD / Simplify Summer Internships
+- Location: Markham, ON, Canada
+- Why: SWE role: software engineer; early career: intern, co-op
+
+## [Software Engineer Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550&utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: Textron / Simplify Summer Internships
+- Location: Waterboro, ME
+- Why: SWE role: software engineer; early career: intern
+
+## [Software Engineer Intern - Electronic Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688&utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: Textron / Simplify Summer Internships
+- Location: Hunt Valley, Cockeysville, MD
+- Why: SWE role: software engineer; early career: intern
+
+## [Software Engineer Intern - Crewed Land](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915&utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: Textron / Simplify Summer Internships
+- Location: Slidell, LA
+- Why: SWE role: software engineer; early career: intern
+
+## [Software Engineer Co-op - Uncrewed Land & Air](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342650&utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: Textron / Simplify Summer Internships
+- Location: Hunt Valley, Cockeysville, MD
+- Why: SWE role: software engineer; early career: co-op
+
+## [Software Developer Intern](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987?utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: Maven Securities / Simplify Summer Internships
+- Location: London, UK
+- Why: SWE role: software developer; early career: intern
+
+## [Software Engineer Intern - Sea Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342935&utm_source=Simplify&ref=Simplify) - 50/100
+
+- Company/source: Textron / Simplify Summer Internships
+- Location: Hunt Valley, Cockeysville, MD
 - Why: SWE role: software engineer; early career: intern
