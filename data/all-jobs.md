@@ -1,9 +1,12 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-08-31 22:42 PDT. 590 unique matching jobs.
+Updated 2026-09-01 01:45 PDT. 593 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 62 | [Embedded Software Engineer Internship Summer 2027](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165) | Vermeer | Pella, Iowa, USA - Corporate Office | Internship Engine | 2026-09-01 01:45 |
+| 50 | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008?utm_source=Simplify&ref=Simplify) | K2 Space | LA | Simplify Summer Internships | 2026-09-01 01:45 |
+| 50 | [Software Engineer New Grad - Software Engineer 1](https://job-boards.greenhouse.io/katalyst/jobs/6176710004?utm_source=Simplify&ref=Simplify) | Katalyst Space Technologies | Broomfield, CO | Simplify New Grad Positions | 2026-09-01 01:45 |
 | 66 | [Firmware Engineer Co-Op](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008761) | Emerson Electric | Marshalltown, IA, United States | Internship Engine | 2026-08-31 22:42 |
 | 60 | [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745) | Stripe | San Francisco, Seattle, New York City | Internship Engine | 2026-08-31 22:42 |
 | 40 | [Engineering Intern (Electrical / Mechanical / GNC / Software)](https://job-boards.greenhouse.io/katalyst/jobs/6176711004) | Katalyst Space Technologies | Broomfield, Colorado, United States | Internship Engine | 2026-08-31 22:42 |
