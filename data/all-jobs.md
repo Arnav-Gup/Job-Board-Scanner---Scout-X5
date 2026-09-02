@@ -1,9 +1,13 @@
 # Scout X5 all-time matching jobs
 
-Updated 2026-09-01 16:34 PDT. 655 unique matching jobs.
+Updated 2026-09-01 18:26 PDT. 659 unique matching jobs.
 
 | Score | Job | Company | Location | Source | First seen |
 | ---: | --- | --- | --- | --- | --- |
+| 54 | [Embedded Software Engineer Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388?utm_source=Simplify&ref=Simplify) | AeroVironment | 16 locations Dayton, OH Annapolis Junction, MD Pottstown, PA Albuquerque, NM Sunrise, FL Arlington County, Arlington, VA Melbourne, FL Petaluma, CA Centreville, VA Lawrence, KS Minneapolis, MN San Luis Obispo, CA Huntsville, AL San Diego, CA Moorpark, CA Simi Valley, CA | Simplify Summer Internships | 2026-09-01 18:26 |
+| 50 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Summer-2027-_01871423?utm_source=Simplify&ref=Simplify) | RTX | Melbourne, FL | Simplify Summer Internships | 2026-09-01 18:26 |
+| 50 | [Software Engineer Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611?utm_source=Simplify&ref=Simplify) | AeroVironment | 14 locations Germantown, MD Annapolis Junction, MD Pottstown, PA Albuquerque, NM Sunrise, FL Arlington County, Arlington, VA Melbourne, FL Petaluma, CA Minneapolis, MN San Luis Obispo, CA Huntsville, AL San Diego, CA Moorpark, CA Simi Valley, CA | Simplify Summer Internships | 2026-09-01 18:26 |
+| 40 | [Software Engineer 1 - Back-End](https://job-boards.greenhouse.io/tebra/jobs/4726985005?utm_source=Simplify&ref=Simplify) | Tebra | Remote in USA | Simplify New Grad Positions | 2026-09-01 18:26 |
 | 54 | [Software Developer Intern](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140) | Genuine Parts Company | Birmingham, AL, USA | Internship Engine | 2026-09-01 16:34 |
 | 54 | [Software Engineer Intern](https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64) | Valon | New York | Internship Engine | 2026-09-01 16:34 |
 | 54 | [IT Software Engineer Internship Summer 2027](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178) | Vermeer | Pella, Iowa, USA - Corporate Office | Internship Engine | 2026-09-01 16:34 |
